@@ -18,8 +18,15 @@ Total Issued Initial Airdrop: 22.22 Million
 https://lunarbits222.com/
 
 ## Tokenomics
+
 ## DAO
+
+## Inscription Proof
+https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
+
 ## FAQ
+
+
 
 #### What protocol is used for Lunarbits?
 
@@ -41,11 +48,16 @@ The total amount of lunarbits authorized is currently 222 Million tokens. Every 
 
 #### Where can $Lunarbits be redeemed?
 
-On offers at www.nftblue.com buy art, buy digital art, and merchandise
+On offers at www.nftblue.com buy art, buy digital art, and merchandise.
 
 On offers at www.spaceblue.blue ( participate in events and experiences related to the space art community)
 
-And at participating partners online and worldwide
+And at participating partners online and worldwide.
+
+#### What cryptocurrency exchange will list the token?
+The Lunarbits Token has applied to list on a leading cryptocurrency platform LA Bank https://m.lbank.com/ and expects to be published there by end of Q3, 2024. ( note this date is subject to change)
+
+
 
 ![Logo](https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Logo.jpg?raw=true)
 
