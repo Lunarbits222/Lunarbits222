@@ -21,13 +21,17 @@ https://lunarbits222.com/
 ## DAO
 ## FAQ
 
-#### To add more questions
+#### What protocol is used for Lunarbits?
 
-To add more answers
+Lunarbits is built on the Bitcoin Ordinals Runes Protocol.
 
-#### To add more questions
+#### What is a bitcoin ordinal and what is the Runes Protocol?
 
-To add more answers
+Bitcoin ordinals are a very popular NFT inscription system and the Runes Protocol built on Bitcoin Ordinals tokenizes and creates the utility token for use in the project  ecosystem.
+
+#### Are $Lunarbits really also a measurement of actual analog space on the moon which landed in the Lunaprise time capsule and space mission in 2024?
+
+Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Mission)  managed and curated by Space Blue sent lunarbits digital artifacts inked to QR codes which take up measurable space in the lunar payload now sitting in the Lunaprise museum on the moon.
 
 
 [Logo]
