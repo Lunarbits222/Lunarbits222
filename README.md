@@ -3,12 +3,12 @@
 
 ACQUIRE-EARN-EXPERIENCE
 The first moon launched bitcoin ordinal runes token rewards, out of this world!
-Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins will be inscribed as bitcoin ordinals as a bitcoin ordinal runes token reward for the Space Blue artist ecosystem.
+Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins will be inscribed as Bitcoin Ordinals as a Bitcoin ordinal runes token reward for the Space Blue artist ecosystem.
 
-Lunarbits twin digital assets were sent to moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first lunar landing for USA since 1972.
+Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first lunar landing for USA since 1972.
 
 
-222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, bitcoin and digital projects were archived in the moon museum [Lunaprise -IM1] including the Lunarbits project
+222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects were archived in the moon museum [Lunaprise -IM1] including the Lunarbits project.
 
 Current $Lunarbits Token Purchasing Power
 Total Supply Authorized 222 Million
@@ -38,13 +38,13 @@ Bitcoin ordinals are a very popular NFT inscription system and the Runes Protoco
 
 #### Are $Lunarbits really also a measurement of actual analog space on the moon which landed in the Lunaprise time capsule and space mission in 2024?
 
-Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Mission)  managed and curated by Space Blue sent lunarbits digital artifacts inked to QR codes which take up measurable space in the lunar payload now sitting in the Lunaprise museum on the moon.
+Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Mission)  managed and curated by Space Blue sent Lunarbits digital artifacts inked to QR codes which take up measurable space in the lunar payload now sitting in the Lunaprise museum on the Moon.
 
 The Odysseus lander became the first US spacecraft to land on the Moon since 1972.
 
-The lunaprise disks (18 layers of them) were inscribed with QR Codes which are linked  as twins to the lunarbits NFT images on earth now inscribed as Bicoin Ordinal $lunarbits utility tokens.
+The Lunaprise disks (18 layers of them) were inscribed with QR Codes which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits utility tokens.
 
-The total amount of lunarbits authorized is currently 222 Million tokens. Every lunarbit reward has a twin of itself in the space on the moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
+The total amount of Lunarbits authorized is currently 222 Million tokens. Every Lunarbit reward has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
 
 #### Where can $Lunarbits be redeemed?
 
@@ -63,7 +63,7 @@ The Lunarbits Token has applied to list on a leading cryptocurrency platform LA 
 
 ##  Authors
 
-All authors to be announced in the foreseeable future
+All authors to be announced in the foreseeable future.
 
 ## Related
 
@@ -73,7 +73,7 @@ https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-u
 
 ## Roadmap
 
-Full roadmap will be announced in the foreseeable future
+Full roadmap will be announced in the foreseeable future.
 
 
 ## Communities
