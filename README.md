@@ -47,8 +47,7 @@ On offers at www.spaceblue.blue ( participate in events and experiences related 
 
 And at participating partners online and worldwide
 
-[Logo]
-
+![Logo](https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Logo.jpg?raw=true)
 
 ##  Authors
 
