@@ -33,6 +33,19 @@ Bitcoin ordinals are a very popular NFT inscription system and the Runes Protoco
 
 Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Mission)  managed and curated by Space Blue sent lunarbits digital artifacts inked to QR codes which take up measurable space in the lunar payload now sitting in the Lunaprise museum on the moon.
 
+The Odysseus lander became the first US spacecraft to land on the Moon since 1972.
+
+The lunaprise disks (18 layers of them) were inscribed with QR Codes which are linked  as twins to the lunarbits NFT images on earth now inscribed as Bicoin Ordinal $lunarbits utility tokens.
+
+The total amount of lunarbits authorized is currently 222 Million tokens. Every lunarbit reward has a twin of itself in the space on the moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
+
+#### Where can $Lunarbits be redeemed?
+
+On offers at www.nftblue.com buy art, buy digital art, and merchandise
+
+On offers at www.spaceblue.blue ( participate in events and experiences related to the space art community)
+
+And at participating partners online and worldwide
 
 [Logo]
 
