@@ -15,8 +15,6 @@ Total Supply Authorized 222 Million
 
 Total Issued Initial Airdrop: 22.22 Million
 
-2.2 million max @$1.00
-
 https://lunarbits222.com/
 
 ## Tokenomics
