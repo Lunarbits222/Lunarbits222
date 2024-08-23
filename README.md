@@ -2,13 +2,13 @@
 # Lunarbits
 
 ACQUIRE-EARN-EXPERIENCE
-The first moon launched bitcoin ordinal runes token rewards, out of this world!
-Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins will be inscribed as Bitcoin Ordinals as a Bitcoin ordinal runes token reward for the Space Blue artist ecosystem.
+The first Moon launched Bitcoin Ordinal Runes token rewards, out of this world!
+Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins will be inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes token reward for the Space Blue artist ecosystem.
 
-Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first lunar landing for USA since 1972.
+Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first Lunar landing for USA since 1972.
 
 
-222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects were archived in the moon museum [Lunaprise -IM1] including the Lunarbits project.
+222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects were archived in the Moon Museum [Lunaprise -IM1] including the Lunarbits project.
 
 Current $Lunarbits Token Purchasing Power
 Total Supply Authorized 222 Million
@@ -19,11 +19,13 @@ https://lunarbits222.com/
 
 ## DAO
 
+![image](https://github.com/user-attachments/assets/951cdc95-2a50-455e-a263-e457f375d646)
+
+
 ## Inscription Proof
 https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
 
 ## FAQ
-
 
 
 #### What protocol is used for Lunarbits?
