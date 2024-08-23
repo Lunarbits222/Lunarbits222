@@ -71,6 +71,7 @@ https://spaceblue.club
 
 https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-ushers-in-a-new-chapter-for-space-marketing/?sh=571420cc5c4b
 
+## Related
 
 ## Roadmap
 ![Roadmap1.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap1.png?raw=true)
@@ -79,6 +80,9 @@ https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-u
 
 Roadmap link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
 
+## Whitepaper
+
+https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20White%20Paper.pdf
 
 ## Communities
 X
