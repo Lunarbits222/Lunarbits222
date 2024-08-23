@@ -74,15 +74,25 @@ https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-u
 ## Related
 
 ## Roadmap
+
+Roadmap Link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
+
 ![Roadmap1.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap1.png?raw=true)
 ![Roadmap2.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap2.png?raw=true)
 ![Roadmap3.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap3.png?raw=true)
 
-Roadmap link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
+
 
 ## Whitepaper
 
 https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20White%20Paper.pdf
+
+##  Tokenomics
+
+Tokenomics Link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Tokenomics.pdf
+
+![Tokenomics1.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics1.png?raw=true)
+![Tokenomics2.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics2.png?raw=true)
 
 ## Communities
 X
