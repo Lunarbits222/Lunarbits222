@@ -67,7 +67,7 @@ All authors to be announced in the foreseeable future.
 
 ## Related
 
-spaceblue.club
+https://spaceblue.club
 https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-ushers-in-a-new-chapter-for-space-marketing/?sh=571420cc5c4b
 
 
@@ -76,7 +76,7 @@ https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-u
 ![Roadmap2.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap2.png?raw=true)
 ![Roadmap3.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Roadmap3.png?raw=true)
 
-Roadmap link ://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
+Roadmap link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
 
 
 ## Communities
