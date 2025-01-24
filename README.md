@@ -91,10 +91,6 @@ Tokenomics Link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits
 ![Tokenomics1.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics1.png?raw=true)
 ![Tokenomics2.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics2.png?raw=true)
 
-# KSC (Kennedy Space Center) Gala Event with Space Blue and Partners
-
-https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
 ## Communities
 X
 https://x.com/lunarbits_222
