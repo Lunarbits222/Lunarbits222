@@ -55,8 +55,9 @@ On offers at www.spaceblue.blue ( participate in events and experiences related 
 And at participating partners online and worldwide.
 
 #### What cryptocurrency exchange will list the token?
-The Lunarbits Token has applied to list on a leading cryptocurrency platform LA Bank https://m.lbank.com/ and expects to be published there by end of Q3, 2024. ( note this date is subject to change)
+The Lunarbits Token has applied amd approved to  to list on a leading cryptocurrency platform such as MEXC LA Bank and expects to be published there by start of Q1, 2025 ( note this date is subject to change)
 
+![IMG-20250123-WA0071](https://github.com/user-attachments/assets/9e5d73bd-9d9b-495f-980d-9bc1a7535774)
 
 
 ![Logo](https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Logo.jpg?raw=true)
