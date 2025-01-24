@@ -66,9 +66,7 @@ The Lunarbits Token has applied amd approved to  to list on a leading cryptocurr
 
 https://spaceblue.club
 
-https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon-ushers-in-a-new-chapter-for-space-marketing/?sh=571420cc5c4b
-
-https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon
 
 ## Roadmap
 
