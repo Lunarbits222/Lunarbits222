@@ -50,7 +50,7 @@ The total amount of Lunarbits authorized is currently 222 Million tokens. Every 
 
 On offers at www.nftblue.com buy art, buy digital art, and merchandise.
 
-On offers at www.spaceblue.blue ( participate in events and experiences related to the space art community)
+On offers at www.spaceblue.club ( participate in events and experiences related to the space art community)
 
 And at participating partners online and worldwide.
 
