@@ -3,7 +3,7 @@
 
 ACQUIRE-EARN-EXPERIENCE
 The first Moon launched Bitcoin Ordinal Runes token rewards, out of this world!
-Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins will be inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes token reward for the Space Blue artist ecosystem.
+Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins have been inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes token reward for the Space Blue artist ecosystem.
 
 Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first Lunar landing for USA since 1972.
 
@@ -13,7 +13,7 @@ Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum o
 Current $Lunarbits Token Purchasing Power
 Total Supply Authorized 222 Million
 
-Total Issued Initial Airdrop: 22.22 Million
+Total Issued Initial Year 1: 22.22 Million
 
 https://lunarbits222.com/
 
