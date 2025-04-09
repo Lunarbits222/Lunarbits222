@@ -68,6 +68,9 @@ https://spaceblue.club
 
 https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon
 
+Cryptopup’s Historic Launch To The Moon Atop SpaceX
+https://docs.google.com/document/d/1oZxrpZIRK0-fge86j1AoUdXyb-cMjFPzKYPir4hk-wI/edit?usp=drivesdk
+
 ## Roadmap
 
 Roadmap Link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Roadmap.pdf
