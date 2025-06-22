@@ -1,6 +1,8 @@
 
 # Lunarbits
 
+https://lunarbits222.com/
+
 Background of Historic Lunar Landing-An Event That Launched lunarbits Bitcoin Built Cryptocurrency.
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
@@ -38,10 +40,10 @@ Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 1
 Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
 Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines and released per schedule each year determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
+
 ### Burning Provision for Lunarbits Treasury Reserve:
 To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
-https://lunarbits222.com/
 
 Lunarbits was pre mined aa a closed mint on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. Learn more at https://luminex.io/
 
@@ -78,7 +80,7 @@ Interested parties can discover Lunarbits mint verification verified on many bit
 2  Luminex Explorer
 Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
 
-4. Luminex Audit and Documentation. Lminex has conducted audits of its software systen used to mint Lunarbits and other Runes projects and such audits are available on their website and github.
+3. Luminex Audit and Documentation. Lminex has conducted audits of its software systen used to mint Lunarbits and other Runes projects and such audits are available on their website and github.
 
 Frequently Asked Questions (FAQ)
 1. What is Rune?
@@ -94,9 +96,9 @@ Closed Mint: A rune can be fully pre-mined within the Etching transaction. The t
 
 Lunarbirs is a closed mint premined. evidence of that can be seen in the inscription proof.
 
-4. What are the Mint Terms? These are the rules that determine when an open mint opens or closes. For example, a mint may be limited to a starting height, an ending height, and a cap, and will be open between the starting height and ending height, or until the cap is reached, whichever comes first.
+3. What are the Mint Terms? These are the rules that determine when an open mint opens or closes. For example, a mint may be limited to a starting height, an ending height, and a cap, and will be open between the starting height and ending height, or until the cap is reached, whichever comes first.
 
-5. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
+4. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
 ## Lunarbits Software and Technical Systems:
 As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways , operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and relies on the audits done by third party platforms and wallets such as luminex.io and Xverse.ap . In the future when lunarbits develops payment systems for redemption of Lunarbits on its third party e-commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
@@ -114,7 +116,8 @@ Here's a more detailed breakdown:
 
 Decentralized:
 
-DAOs operate without a central governing body but often an advisory committee formed early on helps to be a steering commmitee to organize the DAO and get it operating. Decisions are made by the members of the organization, often through voting on proposals. 
+DAOs operate without a central governing body but often an advisory committee formed early on helps to be a steering commmitee to organize the DAO and get it operating. Decisions are made by the members of the organization, often through voting on proposals.
+
 Autonomous:
 
 Once the rules are set in the smart contracts, the DAO operates automatically, without needing human intervention or a central authority. 
@@ -124,6 +127,7 @@ DAOs can be formed for various purposes, like managing a treasury, developing so
 Blockchain:
 
 The core technology that enables DAOs is the blockchain. It provides a transparent and immutable record of all transactions and decisions made within the DAO. 
+
 Smart Contracts:
 
 These are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. They automate the rules of the DAO and ensure they are followed. 
@@ -136,6 +140,7 @@ The Lunarbits Foundation, setting up the initial DAO,  holds no stake in Lunarbi
 The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies (such as Coinbase, or Gemini or other qualified custodians)  to manage the release of treasury of Lunarbits, including escrow and/or smart contracts for future airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simultaneous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
 
 The Foundation will meet monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum one year with its community to study and codify the final rules of the DAO.
+
 The Lunarbits Adivors and initial DAO guidlines  to be developed to date and key affairs that are involved with is as pulbished here in this documen: https://docs.google.com/document/d/1lU85xAnS0mJeVI0GgGcQ6VPD3Ne2JMKc8FPmLes5sjw/edit?usp=sharing
 
 The advisors shall also determine any appropriate vendors to be employed to build software systems during the yea (s) followings the public event. The members of the board of advisors shall be published publicly and updated from time to time. After the establishment of the DAO, a group of qualified advisors shall continue to oversee the development of critical infrastructure and the growth of the Lunarbits community.
@@ -173,6 +178,7 @@ The total amount of Lunarbits authorized is currently 222.222 Million tokens. Ev
 On offers at partner sites as listed and updated at www.lunarbits222.com/partnerships
 
 #### What cryptocurrency exchange will list the token?
+
 The Lunarbits Token has applied amd approved to  to list on a leading cryptocurrency platform such as MEXC, Gate.io,  LA Bank abd others and expects to be published there by start of Q3, 2025 (note this date is subject to change)
 
 ![IMG-20250123-WA0071](https://github.com/user-attachments/assets/9e5d73bd-9d9b-495f-980d-9bc1a7535774)
