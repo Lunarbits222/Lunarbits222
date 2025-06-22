@@ -9,7 +9,7 @@ Lunarbits were launched inbedded with QR codes inscribed on nickel disks launche
 
 
 Space Blue maintains a registry of official Payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
-https//www.verify.spaceblue.club
+https://verify.spaceblue.club/
 
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
