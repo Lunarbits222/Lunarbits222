@@ -20,7 +20,7 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 ## Current $Lunarbits Tokenomics:
 Total Supply Authorized 222 Million
 
-Total Issued Initial Year 1 (2024-202): 22.22 Million Maximun.
+Total Issued Initial Year 1 (1st year commences public launch date estimated Q2-2024): 22.22 Million Maximun.
 
 Locked Up Tokens 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years. 
 
