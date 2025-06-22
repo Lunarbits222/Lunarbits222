@@ -4,6 +4,7 @@
 Background of Soace Launched Event That Launched The Bitcoin Built Memecoin.
 
 
+
 Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of a memecoin. The project is not authored ot curated by SpaceX or NASA and is psrt of the private commercial space mission to land on the moon for NASA and The USA.
 
 
