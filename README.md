@@ -28,7 +28,7 @@ Remaining 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years
 
 https://lunarbits222.com/
 
-Lunarbits was pre mined on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community.
+Lunarbits was pre mined on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. learn more at https://luminex.io/
 
 ## The Bitcoin Runes Protocol
 
