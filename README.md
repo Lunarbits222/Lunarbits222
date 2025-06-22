@@ -1,9 +1,9 @@
 
 # Lunarbits
 
-Background of Historic Lunar Landing-An Event That Launched A Bitcoin Built Cryptocurrency.
+Background of Historic Lunar Landing-An Event That Launched lunarbits Bitcoin Built Cryptocurrency.
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus Lunar Lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initistuves.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025 the payloa was launched to the moon atop a SpaceX Falcon 9 in a private sector mission landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initiatives.
 
 
 Space Blue maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
@@ -12,7 +12,7 @@ https://verify.spaceblue.club/
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
-Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 82nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date has launched tens of thousands of inscription projects on its platform.
+Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed by the bitcoin ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 82nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date has launched tens of thousands of inscription projects on its platform.
 
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
@@ -22,11 +22,11 @@ Total Supply Authorized 222.222 Million
 
 Total Issued Initial Year 1 (1st year commences public launch date estimated Q2-2024): 22.222 Million Maximun.
 
-Locked Up Tokens 200 Million Lunarbits Maximun Issue- Pro Rated Over 10 years. 
+Locked Up Tokens 200 Million Lunarbits Maximun Issue- Pro Rated Over 10 years Per DAO guidlines and Lunarbits white paper. 
 
 Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed third party qualified financial institutuon cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Rules.
+[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines.
 
 https://lunarbits222.com/
 
@@ -49,18 +49,15 @@ Introduction to Runes:
 
 The Bitcoin Runes Protocol is not created or authored by Lunarbits. Lunarbits were inscribed on a third party trusted Bitcoin Runes inscription platform called Luminex. Lunarbits is not its own protocol but rather is a token project inscribed on the Bitcoin network using the inscription tool launched by Luminex. 
 
-Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex laubched in April, 2024 a set of Rune tools, allowing the Lunarbits team to  etch, mint and transfer its Lunarbits Bitcoin Runes Tokens to its initial treasury wallet. 
+Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex launched in April, 2024 a set of Rune tools, allowing the Lunarbits team to  etch, mint and transfer its Lunarbits Bitcoin Runes Tokens to its initial treasury wallet. 
 
 
-Runes were officially released on Bitcoin mainnet at block 840,000,in April 2024.
+Interested parties can discover Lunarbits mint verification verified on many bitcoin runes explorers and decentralized wallets such as Xverse,  Unisat, MagicEden, OKX,   and including on Luminex where parties can inspect: 
 
-
-Interested parties can discover Lunarbits mint verufication verified on many bitcoin runes explorers including on Luminex where parties can inspect; 
-
-1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222 million Lunarbits tokens to the initial treasury wallet 
+1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet 
 
 2  Luminex Explorer
-Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries es to holdings, estimated net worth, and balances.
+Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
 
 4. Luminex Audit and Documentation. Lminex has conducted audits of its software systen used to mint Lunarbits and other Runes projects and such audits are available on their website and github.
 
@@ -80,28 +77,25 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 
 4. What are the Mint Terms? These are the rules that determine when an open mint opens or closes. For example, a mint may be limited to a starting height, an ending height, and a cap, and will be open between the starting height and ending height, or until the cap is reached, whichever comes first.
 
-
 5. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
-
 ## Lunarbits Software and Technical Systems:
-As of June 1st, 2025 Lunarbits operates no software,  operates no difl bridges , operates no DAO softwaree, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  does not need any audits done . In the future when it develops payment systems for redemption of Kunarbits on its third party e commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
+As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways , operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and relies on the audits done by third party platforms and wallets such as luminex.io and Xverse.ap . In the future when lunarbits develops payment systems for redemption of Lunarbits on its third party e-commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
 
 ## Software and Infrastructure In Development. 
 
-Lumarbits is currently building e-commerce software that will Lunarbits stakeholders to use e commerce gateways for its partner offerings. Thd forecasted launch of such applications is  Q4-2025.
+Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time, Lunarbits stakeholders are eligible to participate in e-commerce partnerhips listed at www.lunarbits222.com/partnerships through OTC wallet to wallet transactions with private selling parties of art, collectibles, travel experiences.
 
 DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in 2026.
 
-
 ## DAO
-A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in smart contracts on a blockchain. Essentially, it's an organization run by its members, with decisions made collectively, often through token-based voting, and without a central authority. 
+A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in usually in smart contracts on a blockchain. Essentially, it's an organization run by its members/stakeholders, with decisions made collectively, often through token-based voting, and without a central authority. 
 
 Here's a more detailed breakdown:
 
 Decentralized:
 
-DAOs operate without a central governing body. Decisions are made by the members of the organization, often through voting on proposals. 
+DAOs operate without a central governing body but often an advisory committee formed early on helps to be a steering commmitee to organize the DAO and get it operating. Decisions are made by the members of the organization, often through voting on proposals. 
 Autonomous:
 
 Once the rules are set in the smart contracts, the DAO operates automatically, without needing human intervention or a central authority. 
@@ -118,13 +112,12 @@ Token-based Governance:
 
 Many DAOs use tokens that represent voting power or ownership. Members can use these tokens to propose changes or vote on decisions within the organization. 
 
-The Lunarbits Foundation, setting uo the initial DAO,  holds no stake in Lunarbits tokens, has no beneficial owners or shareholders, and was created as an unincorporated sovereign trust, established in August 2024, solely for the purpose of developing and modifying the initial establishment of a DAO for the benefit of the Lunarbits stakeholder community. It has no authority over wallet signatories and is led by a maximum of 12 board advisors (currently 6 as of June 2025), all of whom are experienced in the cryptocurrency, media, and technology industries.
+The Lunarbits Foundation, setting up the initial DAO,  holds no stake in Lunarbits tokens, has no beneficial owners or shareholders, and was created as an unincorporated sovereign trust, established in August 2024, solely for the purpose of developing and modifying the initial establishment of a DAO for the benefit of the Lunarbits stakeholder community. It has no authority over wallet signatories and is led by a maximum of 12 board advisors (currently 6 as of June 2025), all of whom are experienced in the cryptocurrency, media, and technology industries.
 
-The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies  to manage the treasury of Lunarbits, including escrow and/or smart contracts for airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simtanrous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
+The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies (such as Coinbase, or Gemini or other qualified custodians)  to manage the release of treasury of Lunarbits, including escrow and/or smart contracts for future airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simultaneous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
 
-
-The Foundation meetss monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum lme year with its community to study and codify the final rules of the DAO.
-The Lunarbits Adivors elected to date and key affairs they are involved with is as pulbished here in this documen: https://docs.google.com/document/d/1lU85xAnS0mJeVI0GgGcQ6VPD3Ne2JMKc8FPmLes5sjw/edit?usp=sharing
+The Foundation will meet monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum one year with its community to study and codify the final rules of the DAO.
+The Lunarbits Adivors and initial DAO guidlines  to be developed to date and key affairs that are involved with is as pulbished here in this documen: https://docs.google.com/document/d/1lU85xAnS0mJeVI0GgGcQ6VPD3Ne2JMKc8FPmLes5sjw/edit?usp=sharing
 
 The advisors shall also determine any appropriate vendors to be employed to build software systems during the yea (s) followings the public event. The members of the board of advisors shall be published publicly and updated from time to time. After the establishment of the DAO, a group of qualified advisors shall continue to oversee the development of critical infrastructure and the growth of the Lunarbits community.
 
@@ -152,9 +145,9 @@ Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Missio
 
 The Odysseus lander became the first US spacecraft to land on the Moon since 1972.
 
-The Lunaprise disks (18 layers of them) were inscribed with QR Codes which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits utility tokens.
+The disks (18 layers of them contained in the Lunaprise) were inscribed with QR Codes which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits tokens.
 
-The total amount of Lunarbits authorized is currently 222.222 Million tokens. Every Lunarbit reward has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
+The total amount of Lunarbits authorized is currently 222.222 Million tokens. Every Lunarbit  has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized bitcoin runes offered to earthlings!
 
 #### Where can $Lunarbits be redeemed?
 
@@ -169,8 +162,9 @@ The Lunarbits Token has applied amd approved to  to list on a leading cryptocurr
 ![Logo](https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Logo.jpg?raw=true)
 
 ## Press & Related
+Press regarding the project and space mission is published online including at
 
-https://spaceblue.club
+https://spaceblue.club/press-kit
 
 https://www.forbes.com/sites/cathyhackl/2024/02/22/americas-return-to-the-moon
 
@@ -208,4 +202,4 @@ https://t.me/lunarbits222
 
 Full Linktree
 https://linktr.ee/lunarbits222
-The organization does not pplan on buiding a commmunity on Discord, due to its desire to attract instittionoal investors who may unable to access discord due  the  poor reputation of discord wit its numerous hacks and schemes afflicating cryptocurrency proojcts on discord.
+The organization does not plan on buiding a commmunity on Discord, due to its desire to attract institutional investors who may unable to access discord due compliance issues that institutions have and  the  poor reputation of discord with its numerous hacks and schemes afflicating cryptocurrency proojcts on discord.
