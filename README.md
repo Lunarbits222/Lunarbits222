@@ -1,9 +1,17 @@
 
 # Lunarbits
 
-Background of Event That Launched The Memecoin.
+Background of Soace Launched Event That Launched The Memecoin.
 
-Lunarbits were launched inbedded as QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by spacw conntent compaby Space Blue and a community quickly evolved supporting the launch of a memecoin. Lunarbits now have have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed on August 8th, 2024.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue space and content company and a community quickly evolved supporting the launch of a memecoin.
+
+ Space Blue maintains a registry of official Payloads abd their metadata which landed on the moon:
+
+www.verify.spaceblue.club
+
+Lunarbits verification can be obtained there of its payload inscribed and sent to the moon.
+
+Lunarbits now have have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed on August 8th, 2024.
 
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
