@@ -1,19 +1,17 @@
 
 # Lunarbits
 
-ACQUIRE-EARN-EXPERIENCE
-The first Moon launched Bitcoin Ordinal Runes token rewards, out of this world!
-Lunarbits were launched on the SpaceX Falcon 9 in a private payload (Lunaprise Mission) curated by Space Blue and now their twins have been inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes token reward for the Space Blue artist ecosystem.
+Background of Event That Launched The Memecoin.
 
-Lunarbits twin digital assets were sent to Moon and landed in Lunaprise Museum on South Pole of Moon on February 22nd, 2024. The first Lunar landing for USA since 1972.
+Lunarbits were launched bedded ass QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise) atop the SpaceX Falcon 9 in a private payload landing on the south pole of the moon on February 22nd, 2024. The project was curated by Space Blue and a community quickly evolved supporting the launch of a memecoin. Lunarbits now have have been memempriakized  and inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes tokenized project on August 8th, 2024.
 
 
-222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects were archived in the Moon Museum [Lunaprise -IM1] including the Lunarbits project.
+222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
 
-Current $Lunarbits Token Purchasing Power
+Current $Lunarbits Tokenomics:
 Total Supply Authorized 222 Million
 
-Total Issued Initial Year 1: 22.22 Million
+Total Issued Initial Year 1 (2024-202): 22.22 Million Maximun.
 
 https://lunarbits222.com/
 
