@@ -1,7 +1,7 @@
 
 # Lunarbits
 
-Background of Historic Lunar Landing,An Event That Launched A Bitcoin Built Cryptocurrency.
+Background of Historic Lunar Landing-An Event That Launched A Bitcoin Built Cryptocurrency.
 
 Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus Lunar Lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initistuves.
 
@@ -85,7 +85,7 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 
 
 ## Lunarbits Software and Technical Systems:
-Lunarbits operates no software,  operates no difl bridges , operates no DAO softwaree, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  does not need any audits done . In the future when it develops payment systems for redemption of Kunarbits on its third party e commerce partners  it will update such public interest  information here along with audits appropriately done by reliable third parties.
+As of June 1st, 2025 Lunarbits operates no software,  operates no difl bridges , operates no DAO softwaree, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  does not need any audits done . In the future when it develops payment systems for redemption of Kunarbits on its third party e commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
 
 ## Software and Infrastructure In Development. 
 
@@ -123,7 +123,8 @@ The Lunarbits Foundation, setting uo the initial DAO,  holds no stake in Lunarbi
 The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies  to manage the treasury of Lunarbits, including escrow and/or smart contracts for airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simtanrous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
 
 
-The Foundation meets monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum lme year with its community to study and codify the final rules of the DAO.
+The Foundation meetss monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum lme year with its community to study and codify the final rules of the DAO.
+The Lunarbits Adivors elected to date and key affairs they are involved with is as pulbished here in this documen: https://docs.google.com/document/d/1lU85xAnS0mJeVI0GgGcQ6VPD3Ne2JMKc8FPmLes5sjw/edit?usp=sharing
 
 The advisors shall also determine any appropriate vendors to be employed to build software systems during the yea (s) followings the public event. The members of the board of advisors shall be published publicly and updated from time to time. After the establishment of the DAO, a group of qualified advisors shall continue to oversee the development of critical infrastructure and the growth of the Lunarbits community.
 
@@ -135,7 +136,6 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 
 ## FAQ
 
-
 #### What protocol is used for Lunarbits?
 
 Lunarbits is built on the Bitcoin Ordinals Runes Protocol.
@@ -143,6 +143,8 @@ Lunarbits is built on the Bitcoin Ordinals Runes Protocol.
 #### What is a bitcoin ordinal and what is the Runes Protocol?
 
 Bitcoin ordinals are a very popular NFT inscription system and the Runes Protocol built on Bitcoin Ordinals tokenizes and creates the utility token for use in the project  ecosystem.
+### Are there audits of the actual Lunarbits Mine. 
+Lunarbis does not hold any sofwate involved in the process of its mint of the Lunarbits Bitcoin Runes nor he custody of any of he lunarbits in third party wallets. The transaction was completed an a launch pad facilitated by the trusted third party. interested parties may inspect luminex reporting. documentations and audits on its website.
 
 #### Are $Lunarbits really also a measurement of actual analog space on the moon which landed in the Lunaprise time capsule and space mission in 2024?
 
@@ -152,18 +154,14 @@ The Odysseus lander became the first US spacecraft to land on the Moon since 197
 
 The Lunaprise disks (18 layers of them) were inscribed with QR Codes which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits utility tokens.
 
-The total amount of Lunarbits authorized is currently 222 Million tokens. Every Lunarbit reward has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
+The total amount of Lunarbits authorized is currently 222.222 Million tokens. Every Lunarbit reward has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized reward offered to earthlings!
 
 #### Where can $Lunarbits be redeemed?
 
-On offers at www.nftblue.com buy art, buy digital art, and merchandise.
-
-On offers at www.spaceblue.club ( participate in events and experiences related to the space art community)
-
-And at participating partners online and worldwide.
+On offers at partner sites as listed and updated at www.lunarbits222.com/partnerships
 
 #### What cryptocurrency exchange will list the token?
-The Lunarbits Token has applied amd approved to  to list on a leading cryptocurrency platform such as MEXC, LA Bank abd others and expects to be published there by start of Q3, 2025 (note this date is subject to change)
+The Lunarbits Token has applied amd approved to  to list on a leading cryptocurrency platform such as MEXC, Gate.io,  LA Bank abd others and expects to be published there by start of Q3, 2025 (note this date is subject to change)
 
 ![IMG-20250123-WA0071](https://github.com/user-attachments/assets/9e5d73bd-9d9b-495f-980d-9bc1a7535774)
 
@@ -210,3 +208,4 @@ https://t.me/lunarbits222
 
 Full Linktree
 https://linktr.ee/lunarbits222
+The organization does not pplan on buiding a commmunity on Discord, due to its desire to attract instittionoal investors who may unable to access discord due  the  poor reputation of discord wit its numerous hacks and schemes afflicating cryptocurrency proojcts on discord.
