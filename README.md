@@ -53,6 +53,12 @@ Proof Of Mint:
 
 https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
+### Lunarbits Community Strength
+Lunarbits has over 200,000 registered community members on social media. Due to its community of artists including many Grammy winning music stars, sports athletes, and strategic partners, its estimated overeall reach with campaigns on social media can reach up to 2.3 billion fans of those involved in the Lunarbits ecosystem.
+
+Social media Reach: 200,000 Mininum
+Fans of Community Influencers/Celebritis: 2.3 billion reached on social media.
+
 ## The Bitcoin Runes Protocol
 
 Introduction to Runes:
