@@ -20,15 +20,23 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
 
 ## Current $Lunarbits Tokenomics:
-Total Supply Authorized 222.222 Million
+Total Supply Authorized 222.222 Million Lunarbits Tokens
 
-Total Issued Initial Year 1 (1st year commences public launch date estimated Q2-2024): 22.222 Million Maximun.
+Private Pre Sale: 2.2 Milion Lunarbits Tokens (1%)
 
-Locked Up Tokens 200 Million Lunarbits Maximun Issue- Pro Rated Over 10 years Per DAO guidlines and Lunarbits white paper. 
+Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
+
+Locked Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)
+
+Locked Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10 year release 8.8%)
+
+Locked Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
+
+Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
 
 Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines.
+[Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines and released per schedule each year determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
 
 https://lunarbits222.com/
 
