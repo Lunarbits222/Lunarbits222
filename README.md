@@ -3,7 +3,7 @@
 
 Background of Historic Lunar Landing,An Event That Launched A Bitcoin Built Cryptocurrency.
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus lunar lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initistuves.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus Lunar Lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initistuves.
 
 
 Space Blue maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
@@ -12,30 +12,34 @@ https://verify.spaceblue.club/
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
-Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed on August 8th, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and was inscribed on a third party trusted Bitcoin inscription platform called Luminex.
+Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 82nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date has launched tens of thousands of inscription projects on its platform.
 
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
 
 ## Current $Lunarbits Tokenomics:
-Total Supply Authorized 222 Million
+Total Supply Authorized 222.222 Million
 
-Total Issued Initial Year 1 (1st year commences public launch date estimated Q2-2024): 22.22 Million Maximun.
+Total Issued Initial Year 1 (1st year commences public launch date estimated Q2-2024): 22.222 Million Maximun.
 
-Locked Up Tokens 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years. 
+Locked Up Tokens 200 Million Lunarbits Maximun Issue- Pro Rated Over 10 years. 
 
 Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed thhird Party Qualifued Third Party Financial Institutuon Cold Wallet Storage prior to the public listing, as per DAO Foundation Advisory Rules.
+[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed third party qualified financial institutuon cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Rules.
 
 https://lunarbits222.com/
 
-Lunarbits was pre mined aa a closed mint on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. learn more at https://luminex.io/
+Lunarbits was pre mined aa a closed mint on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. Learn more at https://luminex.io/
 
 ##Lunarbirs Inscription Proof:
 Runes ID: 855163
-Number of Decimaks ;02
+
+Number of Decims: 02
+
 Date of Mint: 08-02-2024
+
+Proof Of Mint:
 
 https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
@@ -43,7 +47,7 @@ https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
 Introduction to Runes:
 
-The Bitcoin Runes Protocol is not created or authored by Lunarbits and was inscribed on a third party trusted Bitcoin inscription platform called Luminex. Lunarbits is not its own protocol but rather is a token project inscribed on the Bitcoin network using the inscription tool launched by Luminex 
+The Bitcoin Runes Protocol is not created or authored by Lunarbits. Lunarbits were inscribed on a third party trusted Bitcoin Runes inscription platform called Luminex. Lunarbits is not its own protocol but rather is a token project inscribed on the Bitcoin network using the inscription tool launched by Luminex. 
 
 Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex laubched in April, 2024 a set of Rune tools, allowing the Lunarbits team to  etch, mint and transfer its Lunarbits Bitcoin Runes Tokens to its initial treasury wallet. 
 
