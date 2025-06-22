@@ -2,6 +2,8 @@
 # Lunarbits
 
 Background of Historic Lunar Landing-An Event That Launched lunarbits Bitcoin Built Cryptocurrency.
+![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
+
 
 Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025 the payloa was launched to the moon atop a SpaceX Falcon 9 in a private sector mission landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initiatives.
 
