@@ -5,11 +5,12 @@ Background of Historic Lunar Landing-An Event That Launched lunarbits Bitcoin Bu
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025 the payloa was launched to the moon atop a SpaceX Falcon 9 in a private sector mission landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initiatives.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025 the payload was launched to the moon atop a SpaceX Falcon 9 in a private sector mission landing on the south pole of the moon on 2.22, February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company ( along with Galatic Legacy Labs, the payload partner) and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is community driven and not authored or curated by SpaceX or NASA, and is part of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initiatives to land art, commercial content and bitcoin projects on the moon.
 
 
-Space Blue maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
-https://verify.spaceblue.club/
+Space Blue, as the only authorized party for certifications of assets in the timecapsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
+https://verify.spaceblue.club/ 
+Further information on the space mission itself can be found online at https://github.com/lunaprise and https://spaceblue.club
 
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
@@ -20,7 +21,7 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
 
 ## Current $Lunarbits Tokenomics:
-Total Supply Authorized 222.222 Million Lunarbits Tokens
+Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
 Private Pre Sale: 2.2 Milion Lunarbits Tokens (1%)
 
@@ -36,7 +37,7 @@ Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 1
 
 Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-[Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines and released per schedule each year determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
+Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to escrowed third party qualified financial institution ( such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidlines and released per schedule each year determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
 
 https://lunarbits222.com/
 
@@ -54,7 +55,7 @@ Proof Of Mint:
 https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
 ### Lunarbits Community Strength
-Lunarbits has over 200,000 registered community members on social media. Due to its community of artists including many Grammy winning music stars, sports athletes, and strategic partners, its estimated overeall reach with campaigns on social media can reach up to 2.3 billion fans of those involved in the Lunarbits ecosystem.
+Lunarbits has over 200,000 registered community members on social media. Due to its community of artists including many Grammy winning music stars, iconic projects like Stan Lee collectibles,  sports athletes memorabilia collections, and strategic partners, its estimated overeall reach with campaigns on social media can reach up to 2.3 billion fans of those involved in the Lunarbits ecosystem. The initial space mission itself about the time capsule and bitcoin projects landing on the moon generated and estimated 3 billion media impressions worldwide.
 
 Social media Reach: 200,000 Mininum
 Fans of Community Influencers/Celebritis: 2.3 billion reached on social media.
