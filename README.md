@@ -28,7 +28,14 @@ Remaining 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years
 
 https://lunarbits222.com/
 
-Lunarbits was pre mined on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. learn more at https://luminex.io/
+Lunarbits was pre mined aa a closed mint on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. learn more at https://luminex.io/
+
+##Lunarbirs Inscription Proof:
+Runes ID: 855163
+Number of Decimaks ;02
+Date of Mint: 08-02-2024
+
+https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
 ## The Bitcoin Runes Protocol
 
