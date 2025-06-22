@@ -1,14 +1,12 @@
 
 # Lunarbits
 
-Background of Soace Launched Event That Launched The Bitcoin Built Memecoin.
+Background of Historic Lunar Landing,An Event That Launched A Bitcoin Built Cryptocurrency.
+
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus lunar lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The time capsule project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is not authored or curated by SpaceX or NASA, and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initistuves.
 
 
-
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus lunar lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue (but now owned by) , a space and content company and a community quickly evolved supporting the launch of a memecoin. The project is not authored ot curated by SpaceX or NASA and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA , The USA and private funded projects.
-
-
-Space Blue maintains a registry of official Payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
+Space Blue maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
 https://verify.spaceblue.club/
 
 
