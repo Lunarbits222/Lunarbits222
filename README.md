@@ -8,9 +8,9 @@ Background of Soace Launched Event That Launched The Bitcoin Built Memecoin.
 Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision). The time capsule was bolted to the Odessyus lunar lander launched to the moon atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue (but now owned by) , a space and content company and a community quickly evolved supporting the launch of a memecoin. The project is not authored ot curated by SpaceX or NASA and is psrt of the first private commercial space mission to land on the moon in 50 years for NASA , The USA and private funded projects.
 
 
-Space Blue maintains a registry of official Payloads of content it curated and stored in the time capsule and their metadata which landed on the moon:
+Space Blue maintains a registry of official Payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
+https//www.verify.spaceblue.club
 
-https://verify.spaceblue.club/?p_asid=2&p_asp_data=1&filters_initial=1&filters_changed=0&qtranslate_lang=0&current_page_id=16672&asp_s=Lunarbits
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
@@ -24,7 +24,11 @@ Total Supply Authorized 222 Million
 
 Total Issued Initial Year 1 (2024-202): 22.22 Million Maximun.
 
-Remaining 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years 
+Locked Up Tokens 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years. 
+
+Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
+
+[Locked Up Tokens i.e, 200 million Lunarbits are to Be transferred to escrowed thhird Party Qualifued Third Party Financial Institutuon Cold Wallet Storage prior to the public listing, as per DAO Foundation Advisory Rules.
 
 https://lunarbits222.com/
 
@@ -51,7 +55,7 @@ Runes were officially released on Bitcoin mainnet at block 840,000,in April 2024
 
 Interested parties can discover Lunarbits mint verufication verified on many bitcoin runes explorers including on Luminex where parties can inspect; 
 
-1. Lunarbits initial closed mint. was on the final closed mint on August 8th, 2024 lunarbits adnistratrators transferred all 222 million Lunarbits tokens to the initial treasury wallet 
+1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222 million Lunarbits tokens to the initial treasury wallet 
 
 2  Luminex Explorer
 Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries es to holdings, estimated net worth, and balances.
@@ -76,8 +80,6 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 
 
 5. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
-
-
 
 
 ## Lunarbits Software and Technical Systems:
