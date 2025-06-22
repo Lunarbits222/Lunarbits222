@@ -67,10 +67,7 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 
 5. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
-6. What is a Cenotaph? When a Runestone is malformed for whatever reason it is called a Cenotaph and in the event there is a Cenotaph all Runes in the transaction are burned
 
-7. What happens if a person transfers a UTXO containing RUNE without the OP_RETURN R?
-If you transfer a UTXO with Rune without the requisite OP_RETURN R, all Runes in that UTXO will be transferred to the first non OP_RETURN output. We recommend setting up a new address exclusively for receiving Ruens and refraining from transferring any UTXO from there until there's wallet integration
 
 
 ## Lunarbits Software and Technical Systems:
