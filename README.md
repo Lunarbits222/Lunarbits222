@@ -52,10 +52,7 @@ Frequently Asked Questions (FAQ)
 1. What is Rune?
 RUNE is a UTXO-based fungible token protocol for the Bitcoin network. It allows for the issuance and management of tokens within the Bitcoin ecosystem.
 
-2. Can RUNES be traded, transferred, or sold?
-Many teams are working on integrating Runes within their platforms, like wallets, marketplaces, and more. We expect trading to commence once Runes are officially released on the mainnet.
-
-3. What's the difference between Open Mint, Premine and Closed Mint?
+2. What's the difference between Open Mint, Premine and Closed Mint?
 
 Open Mint: A rune that is available to mint from any address through an on-chain Rune transaction and allocate a fixed amount of new units for themselves. There is no mint price going to whoever deployed the Rune. An open mint is subject to the Mint Terms.
 
@@ -83,7 +80,7 @@ Lunarbits operates no software,  operates no difl bridges , operates no DAO soft
 
 Lumarbits is currently building e-commerce software that will Lunarbits stakeholders to use e commerce gateways for its partner offerings. Thd forecasted launch of such applications is  Q4-2025.
 
-DAO Platform: Lunarbits expects to start Nd complete the build of a DAO software systen which it plans to launch and operate in 2026.
+DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in 2026.
 
 
 ## DAO
