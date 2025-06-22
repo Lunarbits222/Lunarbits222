@@ -3,7 +3,7 @@
 
 Background of Soace Launched Event That Launched The Memecoin.
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue space and content company and a community quickly evolved supporting the launch of a memecoin.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue space and content company and a community quickly evolved supporting the launch of a memecoin.
 
  Space Blue maintains a registry of official Payloads abd their metadata which landed on the moon:
 
