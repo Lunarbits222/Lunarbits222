@@ -1,11 +1,12 @@
 
 # Lunarbits
 
-Background of Soace Launched Event That Launched The Memecoin.
+Background of Soace Launched Event That Launched The Bitcoin Built Memecoin.
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue space and content company and a community quickly evolved supporting the launch of a memecoin.
+Lunarbits were launched inbedded with QR codes inscribed on nickel disks launched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by Space Blue, a space and content company and a community quickly evolved supporting the launch of a memecoin. The project is not authored ot curated by SpaceX or NASA and is psrt of the private commercial space mission to land on the moon for NASA and The USA.
 
- Space Blue maintains a registry of official Payloads abd their metadata which landed on the moon:
+
+Space Blue maintains a registry of official Payloads of content it curated and stored in the time capsule and their metadata which landed on the moon:
 
 www.verify.spaceblue.club
 
@@ -25,38 +26,27 @@ Remaining 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years
 
 https://lunarbits222.com/
 
-Lunarbits was pre mined on the Luninex platform, a third party widely used abd trusted in the bitcoin ordinals and bitcoin runes community.
+Lunarbits was pre mined on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community.
 
 ## The Bitcoin Runes Protocol
 
-Introduction to Runes
+Introduction to Runes:
+
 Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex is launching a set of Rune tools, allowing anyone to effortlessly etch, mint and transfer Runes.
 
-Runes are set to be officially released on Bitcoin mainnet at block 840,000, around the 20th April 2024.
+Runes were officially released on Bitcoin mainnet at block 840,000,in April 2024.
 
-Before then, you can test Luminex Runes tools on the Bitcoin testnet at: LINK TO BE RELEASED
 
-Which Runes Tools can you find at Luminex ?
+You can discover Lunarbits mint verufication and see bachend functions on Luminex like:
 1. Deploy (Etch) new Runes
-In just a few clicks, you can deploy a new Rune token. Easily set up an open mint, premine, or close mint your Rune with the ideal configurations.
+In just a few clicks, an administrator can see how Lumarbits deloyedbits token and view the options that were selected betweenan open mint, premine, or close mint.Lunarbits is a closed pee mi
 
-2. Mint
-You can navigate through all the available Runes to mint, sort them by the most popular ones, and easily mint them.
+2. Lunarbits initial closed mint. upon the final closed mint on August 8th, 2024 lunarbits adnistratratirs transferred all 222 million tokens to the initial treasury wallet 
 
-3. Transfer, Balance and History
-After minting, you can easily manage your runes, transfer them to other addresses, check your balances, or view your transaction history.
+3. Luminex Explorer
+Allows the public to see overview of your favorite Runes and Ordinals addresses. With summaries on holdings, estimated net worth, and balances.
 
-4. Degen REDACTED Feature (To Be Announced 👀)
-REDACTED - Degen feature to be available 3 days before Runes Launch.
-
-5. Alpha and Pro Users
-Get access to our Alpha tools to find the most popular Runes to mint and become a Pro User to be on the edge of Pro Runes minting.
-
-6. Explorer
-Get an overview of your favorite Runes and Ordinals addresses. With summaries on holdings, estimated net worth, and balances.
-
-7. Reward Points: Souls
-Mint Runes, earn Souls. The more you use Luminex, the more you'll get rewarded with our internal reward system: Souls. Souls are useful to access Luminex pro features and giveaways.
+4. Luminex Audit and Documentation. Lminex has conducted audits of its software systen used to mint Lunarbits and other Runes projects and such audits are available on their website and github.
 
 Frequently Asked Questions (FAQ)
 1. What is Rune?
@@ -83,7 +73,18 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 6. What is a Cenotaph? When a Runestone is malformed for whatever reason it is called a Cenotaph and in the event there is a Cenotaph all Runes in the transaction are burned
 
 7. What happens if a person transfers a UTXO containing RUNE without the OP_RETURN R?
-If you transfer a UTXO with Rune without the requisite OP_RETURN R, all Runes in that UTXO will be transferred to the first non OP_RETURN output. We recommend setting up a new address exclusively for receiving Ruens and refraining from transferring any UTXO from there until there's wallet integration.
+If you transfer a UTXO with Rune without the requisite OP_RETURN R, all Runes in that UTXO will be transferred to the first non OP_RETURN output. We recommend setting up a new address exclusively for receiving Ruens and refraining from transferring any UTXO from there until there's wallet integration
+
+
+## Lunarbits Software and Technical Systems:
+Lunarbits operates no software,  operates no difl bridges , operates no DAO softwaree, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  does not need any audits done . In the future when it develops payment systems for redemption of Kunarbits on its third party e commerce partners  it will update such public interest  information here along with audits appropriately done by reliable third parties.
+
+## Software and Infrastructure In Development. 
+
+Lumarbits is currently building e-commerce software that will Lunarbits stakeholders to use e commerce gateways for its partner offerings. Thd forecasted launch of such applications is  Q4-2025.
+
+DAO Platform: Lunarbits expects to start Nd complete the build of a DAO software systen which it plans to launch and operate in 2026.
+
 
 ## DAO
 A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in smart contracts on a blockchain. Essentially, it's an organization run by its members, with decisions made collectively, often through token-based voting, and without a central authority. 
