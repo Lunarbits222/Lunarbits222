@@ -3,15 +3,17 @@
 
 Background of Event That Launched The Memecoin.
 
-Lunarbits were launched bedded ass QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise) atop the SpaceX Falcon 9 in a private payload landing on the south pole of the moon on February 22nd, 2024. The project was curated by Space Blue and a community quickly evolved supporting the launch of a memecoin. Lunarbits now have have been memempriakized  and inscribed as Bitcoin Ordinals as a Bitcoin Ordinal Runes tokenized project on August 8th, 2024.
+Lunarbits were launched inbedded as QR codes inscribed on nickel disks laubched in a timecapsule (Lunaprise IM-1 Mision)  atop a SpaceX Falcon 9 in a private payload landing on the south pole of the moon on 2.22 i.e., February 22nd, 2024. The project was curated by spacw conntent compaby Space Blue and a community quickly evolved supporting the launch of a memecoin. Lunarbits now have have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed in 2024 called Bitcoin Runes and were inscribed on August 8th, 2024.
 
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
 
-Current $Lunarbits Tokenomics:
+## Current $Lunarbits Tokenomics:
 Total Supply Authorized 222 Million
 
 Total Issued Initial Year 1 (2024-202): 22.22 Million Maximun.
+
+Remaining 200 Million Lunarbits Maximun Issue Pro Rated Over 10 years 
 
 https://lunarbits222.com/
 
@@ -19,26 +21,27 @@ https://lunarbits222.com/
 A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in smart contracts on a blockchain. Essentially, it's an organization run by its members, with decisions made collectively, often through token-based voting, and without a central authority. 
 
 Here's a more detailed breakdown:
+
 Decentralized:
-.
+
 DAOs operate without a central governing body. Decisions are made by the members of the organization, often through voting on proposals. 
 Autonomous:
-.
+
 Once the rules are set in the smart contracts, the DAO operates automatically, without needing human intervention or a central authority. 
 Organization:
-.
+
 DAOs can be formed for various purposes, like managing a treasury, developing software, or even running a community. 
 Blockchain:
-.
+
 The core technology that enables DAOs is the blockchain. It provides a transparent and immutable record of all transactions and decisions made within the DAO. 
 Smart Contracts:
-.
+
 These are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. They automate the rules of the DAO and ensure they are followed. 
 Token-based Governance:
-.
+
 Many DAOs use tokens that represent voting power or ownership. Members can use these tokens to propose changes or vote on decisions within the organization. 
 
-The Lunarbits Foundation, setting uo the initial DAO holds no stake in Lunarbits tokens, has no beneficial owners or shareholders, and was created as an unincorporated sovereign trust, established in August 2024, solely for the purpose of developing and modifying the initial establishment of a DAO for the benefit of the Lunarbits stakeholder community. It has no authority over wallet signatories and is led by a maximum of 12 board advisors (currently 6 as of June 2025), all of whom are experienced in the cryptocurrency, media, and technology industries.
+The Lunarbits Foundation, setting uo the initial DAO,  holds no stake in Lunarbits tokens, has no beneficial owners or shareholders, and was created as an unincorporated sovereign trust, established in August 2024, solely for the purpose of developing and modifying the initial establishment of a DAO for the benefit of the Lunarbits stakeholder community. It has no authority over wallet signatories and is led by a maximum of 12 board advisors (currently 6 as of June 2025), all of whom are experienced in the cryptocurrency, media, and technology industries.
 
 The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies  to manage the treasury of Lunarbits, including escrow and/or smart contracts for airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simtanrous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
 
