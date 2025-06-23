@@ -25,7 +25,7 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 ## Current $Lunarbits Tokenomics:
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
-Private Pre Sale: 2.2 Milion Lunarbits Tokens (1%)
+Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
 
 Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
@@ -80,7 +80,7 @@ Interested parties can discover Lunarbits mint verification verified on many bit
 2  Luminex Explorer
 Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
 
-3. Luminex Audit and Documentation. Lminex has conducted audits of its software systen used to mint Lunarbits and other Runes projects and such audits are available on their website and github.
+3. Luminex Audit and Documentation. Lminex if it conducted audits of its software systen used to mint Lunarbits and other Runes projects then such audits may be available on their website and github.
 
 Frequently Asked Questions (FAQ)
 1. What is Rune?
@@ -101,13 +101,13 @@ Lunarbirs is a closed mint premined. evidence of that can be seen in the inscrip
 4. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
 ## Lunarbits Software and Technical Systems:
-As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways , operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and relies on the audits done by third party platforms and wallets such as luminex.io and Xverse.ap . In the future when lunarbits develops payment systems for redemption of Lunarbits on its third party e-commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
+As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways , operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and believes that Runes and Luminex.io audits may be done by third party platforms and wallets such as luminex.io and Xverse.app . In the future when lunarbits develops its own appsandv payment systems for redemption of Lunarbits on its third party e-commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
 
 ## Software and Infrastructure In Development. 
 
 Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time, Lunarbits stakeholders are eligible to participate in e-commerce partnerhips listed at www.lunarbits222.com/partnerships through OTC wallet to wallet transactions with private selling parties of art, collectibles, travel experiences.
 
-DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in 2026.
+DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in mid 2026.
 
 ## DAO
 A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in usually in smart contracts on a blockchain. Essentially, it's an organization run by its members/stakeholders, with decisions made collectively, often through token-based voting, and without a central authority. 
