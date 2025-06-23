@@ -23,9 +23,8 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project
 
-# CURRENT LUMARBITS TOKENOMICS
+#LUNARBITS TOKENOMICS
 
-## Current $Lunarbits Tokenomics:
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
 Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
