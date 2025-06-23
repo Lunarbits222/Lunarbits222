@@ -80,7 +80,7 @@ Interested parties can discover Lunarbits mint verification verified on many bit
 
 1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet 
 
-2  Luminex Explorer
+2. Luminex Explorer
 Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
 
 3. Luminex Audit and Documentation. Lminex if it conducted audits of its software systen used to mint Lunarbits and other Runes projects then such audits may be available on their website and github.
