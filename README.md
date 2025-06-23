@@ -108,7 +108,8 @@ As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges o
 
 ## Software and Infrastructure In Development. 
 
-Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time, Lunarbits stakeholders are eligible to participate in e-commerce partnerhips listed at www.lunarbits222.com/partnerships through OTC wallet to wallet transactions with private selling parties of art, collectibles, travel experiences.
+Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time.
+Lunarbits stakeholders are eligible to participate in e-commerce partnerhips listed at  https://lunarbits222.com/partnership/ through  OTC wallet to wallet transactions with private selling parties of art, collectibles, travel experiences.
 
 DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in mid 2026.
 
