@@ -17,7 +17,7 @@ Further information on the space mission itself can be found online at https://g
 
 Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
-Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed by the bitcoin ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 82nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date has launched tens of thousands of inscription projects on its platform.
+Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using q protocol developed by the bitcoin ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 2nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date has launched tens of thousands of inscription projects on its platform.
 
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moo [Lunaprise -IM1 Mission] including the Lunarbits project.
