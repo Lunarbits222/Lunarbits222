@@ -1,4 +1,4 @@
-
+o
 # Lunarbits
 
 https://lunarbits222.com/
@@ -115,7 +115,7 @@ DAO Platform: Lunarbits expects to start and complete the build of a DAO softwar
 ## DAO
 A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in usually in smart contracts on a blockchain. Essentially, it's an organization run by its members/stakeholders, with decisions made collectively, often through token-based voting, and without a central authority. 
 
-The Lunarbits advisory team has deemed that premature modification and inflexible rule making  and launching of  DAO without at least a 1 to 2 year study and consensus and participation of the community with feedback on what the community deems are important guardrails for long term community involvement, is not advisable and cited numerous examples of premature launched DAO programs that were not in the thr long term interests of an evolving community 
+The Lunarbits advisory team has deemed that premature modification and inflexible rule making  and launching of  DAO without at least a 1 to 2 year study and consensus and participation of the community with feedback on what the community deems are important guardrails for long term community involvement, is not advisable and cited numerous examples of premature launched DAO programs that were not in the the long term interests of an evolving community.
 
 Here's a more detailed breakdown:
 
