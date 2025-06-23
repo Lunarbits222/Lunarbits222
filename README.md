@@ -37,7 +37,9 @@ Locked Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
 
 Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
 
-Lock Up Wallet Address: bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
+Lock Up Wallet Address:
+https://luminex.io/address/bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
+ bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
 Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to an escrowed third party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
 
