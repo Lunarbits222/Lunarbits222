@@ -230,4 +230,4 @@ https://t.me/lunarbits222
 
 Full Linktree
 https://linktr.ee/lunarbits222
-The organization does not plan on buiding a commmunity on Discord, due to its desire to attract institutional investors who may unable to access discord due compliance issues that institutions have and  the  poor reputation of discord with its numerous hacks and schemes afflicating cryptocurrency proojcts on discord.
+The organization does not plan on buiding a commmunity on Discord, due to its desire to attract institutional investors who may be unable to access discord due to compliance issues that institutions have and  the  poor reputation of discord with its numerous hacks and schemes afflicting cryptocurrency projects on discord.
