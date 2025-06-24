@@ -113,6 +113,19 @@ Lunarbits stakeholders are eligible to participate in e-commerce partnerhips lis
 
 DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in mid 2026.
 
+# Lunarbits Roadmap and Timelines
+
+The following are key projected timelines of projects developing with Lunarbits:(subject to change).
+1.Joint Launch of Future Trends Metaverse Live To Customers: Quarter 3, 2025.
+2. Joint Launch Soundromea Metaverse and Concert and Video Game: Quarter 3,2025.
+3. Launch Lunarbits Blue Chip Bitcoin Ordinals NFT Platform: Quarter 4, 2025
+4. Launch DAO for first voting by Lunarbits stakeholders; Quarter 3, 2926
+5. Lunarbits DIFI systems (payments and e commerce) : Quarter 4, 2025-Ongoing Improvements.
+6. Expand Lunarbits Human Space Initiatives with Space partnerships: 2027-2030 
+7. Expand Lunarbits Art/Content in Space Initiatives: 2026-2030
+
+
+
 ## DAO
 A Decentralized Autonomous Organization (DAO), or DAO, is a type of organization that operates using rules encoded in usually in smart contracts on a blockchain. Essentially, it's an organization run by its members/stakeholders, with decisions made collectively, often through token-based voting, and without a central authority. 
 
