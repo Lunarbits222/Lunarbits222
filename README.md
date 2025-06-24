@@ -78,7 +78,7 @@ Runes is a fungible token protocol for the Bitcoin network that aims to be simpl
 
 Interested parties can discover Lunarbits mint verification verified on many bitcoin runes explorers and decentralized wallets such as Xverse,  Unisat, MagicEden, OKX,   and including on Luminex where parties can inspect: 
 
-1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet 
+1. Lunarbits initial closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet.
 
 2. Luminex Explorer
 Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
@@ -117,7 +117,8 @@ DAO Platform: Lunarbits expects to start and complete the build of a DAO softwar
 
 The following are key projected timelines of projects developing with Lunarbits:(subject to change).
 
-1.Joint Launch of Future Trends Metaverse Live To Customers: Quarter 3, 2025.
+
+1. Joint Launch of Future Trends Metaverse Live To Customers: Quarter 3, 2025.
 
 2. Joint Launch Soundromea Metaverse and Concert and Video Game: Quarter 3,2025.
 
