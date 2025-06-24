@@ -68,6 +68,8 @@ Auditing a Bitcoin Runes project inscribed on Luminex.io, when Luminex when mint
 Further proof of Mint and parameters is viewable here.
 https://ordiscan.com/rune/LUNARBITSONTHEMOON
 
+https://geniidata.com/ordinals/runes/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON?type=holders
+
 ### Lunarbits Community Strength
 Lunarbits has over 200,000 registered community members on social media. Due to its community of artists including many Grammy winning music stars, iconic projects like Stan Lee collectibles,  sports athletes memorabilia collections, and strategic partners, its estimated overeall reach with campaigns on social media can reach up to 2.3 billion fans of those involved in the Lunarbits ecosystem. The initial space mission itself about the time capsule and bitcoin projects landing on the moon generated and estimated 3 billion media impressions worldwide.
 
