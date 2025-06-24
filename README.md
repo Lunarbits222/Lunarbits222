@@ -3,7 +3,7 @@ o
 
 https://lunarbits222.com/
 
-Background of Historic Lunar Landing-An Event That Launched lunarbits Bitcoin Built Cryptocurrency.
+Background of Historic Lunar Landing-An Event That Launched Lunarbits Bitcoin Built Cryptocurrency.
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
 
