@@ -24,11 +24,16 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 
 # Lunarbits Community
 
-Lunarbits boasts a vibrant community of over 200,000 registered members across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators. Campaigns leveraging these influencers have reached an estimated 2.3 billion fans, with the lunar mission generating 3 billion global media impressions.
+Lunarbits boasts a vibrant community of over 200,000 registered members across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators.
+
+Campaigns leveraging these influencers have reached an estimated 2.3 billion fans, with the lunar mission generating 3 billion global media impressions.
 
 Social Media:
+
 X: x.com/lunarbits_222
+
 Telegram: t.me/lunarbits222
+
 Linktree: linktr.ee/lunarbits222
 
 Note: Lunarbits avoids Discord to align with institutional investor preferences and mitigate risks of hacks and scams prevalent on the platform.
