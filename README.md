@@ -44,6 +44,11 @@ https://luminex.io/address/bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7
 
 Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to an escrowed third party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
 
+## BITCOIN BLOCKCHAIN SECURITY
+
+As a Bitcoin Runes token, Lunarbits leverages Bitcoin’s L1 security, the most robust in crypto, reducing risks of hacks or double-spending. Its UTXO-based model integrates seamlessly with Bitcoin’s architecture, unlike the less efficient BRC-20 standard.
+
+
 ### Burning Provision for Lunarbits Treasury Reserve:
 To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
