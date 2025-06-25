@@ -22,6 +22,17 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moon [Lunaprise -IM1 Mission] including the Lunarbits project
 
+##Community
+
+Lunarbits boasts a vibrant community of over 200,000 registered members across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators. Campaigns leveraging these influencers have reached an estimated 2.3 billion fans, with the lunar mission generating 3 billion global media impressions.
+
+Social Media:
+X: x.com/lunarbits_222
+Telegram: t.me/lunarbits222
+Linktree: linktr.ee/lunarbits222
+
+Note: Lunarbits avoids Discord to align with institutional investor preferences and mitigate risks of hacks and scams prevalent on the platform.
+
 # Lunarbits Tokenomics
 
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
@@ -260,13 +271,4 @@ Tokenomics Link https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits
 ![Tokenomics1.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics1.png?raw=true)
 ![Tokenomics2.png](https://github.com/Lunarbits222/Lunarbits222/blob/main/Tokenomics2.png?raw=true)
 
-## Communities
-X
-https://x.com/lunarbits_222
 
-Telegram
-https://t.me/lunarbits222
-
-Full Linktree
-https://linktr.ee/lunarbits222
-The organization does not plan on buiding a commmunity on Discord, due to its desire to attract institutional investors who may be unable to access discord due to compliance issues that institutions have and  the  poor reputation of discord with its numerous hacks and schemes afflicting cryptocurrency projects on discord.
