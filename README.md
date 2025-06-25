@@ -22,7 +22,7 @@ Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tok
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moon [Lunaprise -IM1 Mission] including the Lunarbits project
 
-##Community
+# Lunarbits Community
 
 Lunarbits boasts a vibrant community of over 200,000 registered members across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators. Campaigns leveraging these influencers have reached an estimated 2.3 billion fans, with the lunar mission generating 3 billion global media impressions.
 
