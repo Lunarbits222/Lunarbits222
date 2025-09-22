@@ -55,6 +55,8 @@ Locked Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
 
 Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
 
+UPDATE: On September 18th, 2025 Lunarbits announced a long awaited introduction of Lubarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place between September 29th, 2025 and October 10th,2025 and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+
 Lock Up Wallet Address:
 https://luminex.io/address/bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
  bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
