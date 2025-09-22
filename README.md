@@ -37,7 +37,7 @@ Telegram: t.me/lunarbits222
 
 Linktree: linktr.ee/lunarbits222
 
-Note: Lunarbits avoids Discord to align with institutional investor preferences and mitigate risks of hacks and scams prevalent on the platform.
+
 
 # Lunarbits Tokenomics
 
