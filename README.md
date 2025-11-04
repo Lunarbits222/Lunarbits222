@@ -47,21 +47,21 @@ Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
 
 Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
-Locked Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)
+Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)  This number includes 22.22 Milliok tokens reserved when 22.22 Million LBITS Solana token is introduced in November, 2025.
 
 Locked Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10 year release 8.8%)
 
-Locked Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
+Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
 
-Total Locked Up Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
+Total Reserved Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
 
-UPDATE: On September 18th, 2025 Lunarbits announced a long awaited introduction of Lubarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place between September 29th, 2025 and October 10th,2025 and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+UPDATE: LBITS A multichain initiative inscribing 22.22 million ecosystem rewards tokens were launched by Lunarbits.Lunarbits announced a long awaited introduction of Lubarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025 and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
-Lock Up Wallet Address:
+Treasury Reserve Wallet Address:
 https://luminex.io/address/bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
  bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-Locked Up Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to an escrowed third party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage upon the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
+Total Reserved Tokens i.e, Mininum 197.77 million Lunarbits are to Be transferred to an escrowed third party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage during year 1 after  the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
 
 ## BITCOIN BLOCKCHAIN SECURITY
 
@@ -69,6 +69,8 @@ As a Bitcoin Runes token, Lunarbits leverages Bitcoin’s L1 security, the most 
 
 
 ### Burning Provision for Lunarbits Treasury Reserve:
+LBITS
+Lunarbits Foundation concurrent with the introduction of 22.22 LBITS Solana Tokens in November, 2025 agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO within 2 years of the ICO deems its in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
 To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
 
