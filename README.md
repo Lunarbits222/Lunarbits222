@@ -87,6 +87,14 @@ Proof Of Mint:
 
 https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
+LBITS SOLANA
+
+Date of Mint: 11-4-2025
+Number of LBITS: 22.22 million
+Decimals: 06
+
+Proof of Mint:
+https://solscan.io/token/9tfE5DxL1mTQZmuwRF4ccdrBxa3giQHP22viCPa24aFB
 Additional methods to proof the mint:
 
 Auditing a Bitcoin Runes project inscribed on Luminex.io, when Luminex when minting is not controlled by the project team, is feasible by leveraging Bitcoin’s blockchain transparency and alternative tools. Key steps include verifying the etching transaction, tracing minting activity, auditing Runestone security, assessing the team and third-party minting, and checking market health. Tools like ordiscan.com, Mempool.space, GeniiData, RuneScan, and Runes Indexer replace Luminex’s dashboard, while security firms ensure thorough analysis. For third-party minting, cross-reference logs with on-chain data and audit their security. To reduce risks, use multi-sig wallets, pre-audit Runestones, monitor transactions, and rely on decentralized indexers. This approach ensures a robust audit, even in challenging conditions, protecting investors and users.
