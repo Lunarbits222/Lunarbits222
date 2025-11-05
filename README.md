@@ -47,9 +47,9 @@ Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
 
 Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
-Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)  This number includes 22.22 Milliok tokens reserved when 22.22 Million LBITS Solana token is introduced in November, 2025.
+Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)  This number includes 22.22 Million tokens reserved for future burning when 22.22 Million LBITS Solana token was introduced in November, 2025.
 
-Locked Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10 year release 8.8%)
+Reserved Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10 year release 8.8%)
 
 Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
 
