@@ -72,6 +72,36 @@ Total Reserved Tokens Across Multiple Reserve Wallets i.e, Mininum 197.77 millio
 
 As a Bitcoin Runes token, Lunarbits leverages Bitcoin’s L1 security, the most robust in crypto, reducing risks of hacks or double-spending. Its UTXO-based model integrates seamlessly with Bitcoin’s architecture, unlike the less efficient BRC-20 standard.
 
+## LBITS AND SOLANA NETWORK
+
+Background: 
+The Solana Network and Protocol
+The Solana blockchain represents a paradigm shift in distributed ledger technology, designed to address the longstanding scalability trilemma—balancing decentralization, security, and performance—that has plagued earlier networks like Bitcoin and Ethereum. Founded in 2017 by Anatoly Yakovenko and a team of former Qualcomm engineers, Solana Labs aimed to create a global-scale infrastructure capable of supporting decentralized applications (dApps) at internet speeds. Launched in March 2020, the Solana mainnet has since evolved into a robust Layer-1 protocol, processing over 2,000 transactions per second (TPS) on average, with theoretical peaks exceeding 65,000 TPS, while maintaining sub-second finality and transaction fees averaging less than $0.00025.
+
+At its core, Solana's protocol innovations distinguish it from traditional blockchains. It employs a hybrid consensus mechanism combining Proof of Stake (PoS) with Proof of History (PoH), a novel time-stamping protocol that Yakovenko patented in 2018. PoH functions as a verifiable delay function, generating a historical record of events by hashing timestamps into a sequential chain, effectively creating a decentralized clock without relying on synchronized nodes. This eliminates the need for constant communication between validators to establish temporal order, drastically reducing latency and bandwidth overhead. PoH is complemented by Tower BFT, a PoS variant of Practical Byzantine Fault Tolerance (PBFT), which uses the historical proofs from PoH to achieve consensus in fewer rounds—typically 2-3 slots per block—ensuring rapid finality while tolerating up to one-third faulty validators.
+
+Solana's architecture further optimizes throughput through a suite of purpose-built components.
+
+Solana's architecture enables it to handle high-volume use cases, from DeFi and NFTs to gaming and payments, while preserving decentralization—over 1,500 independent validators secure the network as of late 2025.006113c806ec The protocol's energy efficiency, driven by PoS, aligns with sustainable blockchain trends, consuming approximately 0.001 kWh per transaction compared to Bitcoin's proof-of-work equivalent.2929f5 
+
+Despite occasional network congestion during peak adoption (e.g., meme coin frenzies in 2024-2025), Solana's Firedancer upgrade— a Rust-based validator client from Jump Crypto—has enhanced resilience, targeting 1 million TPS in future iterations.
+
+Solana's ecosystem has flourished, attracting over $10 billion in total value locked (TVL) and powering projects in capital markets, real-world assets (RWAs), and consumer applications. Its permissionless nature and low barriers to entry have democratized blockchain development, fostering innovation in high-frequency trading, cross-border remittances, and community-driven tokens.
+
+LBITS: Leveraging Solana's Solutions for Meme Coin Ecosystem Rewards
+Building on Solana's high-performance foundation, the LBITS project emerges as a innovative multichain meme coin initiative spearheaded by Lunarbits—a Singapore-based community of space enthusiasts, artists, musicians, and Bitcoin pioneers.
+
+LBITS wasLaunched on November 4, 2025, LBITS represents a strategic expansion of the Lunarbits ecosystem onto Solana, minting 22.22 million tokens as inscribed rewards for community contributors. Positioned as a meme coin with utility in ecosystem governance and incentives, LBITS draws inspiration from viral Solana phenomena like BONK and WIF, but differentiates through its multichain interoperability—bridging Bitcoin Runes origins with Solana's speed. The total supply of 22.22 million echoes Lunarbits' lunar motif (22.22 symbolizing orbital cycles), with allocations for airdrops, staking rewards, and creator grants to fuel a "moonshot" economy of art, music, and space-themed dApps.09a99558a60342bbb3
+LBITS harnesses Solana's protocol solutions to overcome the limitations inherent in meme coin launches on less scalable chains:
+High Throughput and Low Latency via PoH and Turbine: Solana's ability to process thousands of TPS enables seamless, real-time distribution of the 22.22 million LBITS rewards. During the mint event, over 10,000 participants claimed tokens in under 30 seconds, avoiding the congestion that plagued Ethereum-based airdrops. PoH's timestamping ensures tamper-proof inscription of rewards, while Turbine's efficient propagation broadcasts claims network-wide without bottlenecks, ideal for viral, community-driven hype cycles characteristic of meme coins.
+
+Cost Efficiency and Accessibility: With fees under $0.00025, LBITS democratizes participation, allowing micro-transactions for staking, voting on ecosystem proposals, or tipping creators—features that would be prohibitive on higher-fee networks. This aligns with Lunarbits' inclusive vision, enabling global "pups" (community members) to engage without barriers.
+
+Parallel Execution with Sealevel: LBITS smart contracts, deployed as Solana Programs, leverage parallel processing for concurrent reward calculations and multichain bridges. For instance, integrations with Wormhole or Allbridge facilitate atomic swaps between LBITS on Solana and Lunarbits Runes on Bitcoin, executing in parallel to minimize slippage during high-volume trades.47e616
+Gulf Stream for Meme Velocity: By forwarding unconfirmed reward claims to validators pre-block, Gulf Stream ensures near-instant feedback loops, amplifying social virality. This was pivotal during LBITS' launch, where DEX listings on Raydium and Jupiter saw 500% volume spikes within minutes, powered by Solana's mempool optimization.
+
+In essence, LBITS transforms Solana from a mere host into a launchpad for interstellar meme culture, using the protocol's innovations to scale rewards at lunar speeds. This synergy not only enhances liquidity and engagement but positions LBITS as a bridge between Bitcoin's security and Solana's velocity, fostering a trillion-dollar community ecosystem that rewards innovation across chains.96a652 Future developments, including LBITS-powered lunar NFT marketplaces and space-themed DeFi primitives, will further exploit Solana's scalability to propel the project toward its namesake destination.
+
 
 ### Burning Provision for Lunarbits Treasury Reserve:
 
