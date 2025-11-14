@@ -6,24 +6,24 @@ https://lunarbits222.com/
 A Bitcoin Runes Token Born on the Moon
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
-Expanded with multichain initiative to include LBITS Lunarbits Solana in November, 2025.
+Expanded with the multichain initiative to include LBITS, Lunarbits Solana in November 2025.
 
 # Lunarbits Historic Lunar Space Background
 
-Lunarbits were launched inbedded with QR codes inscribed on nickel disks inside a timecapsule (Lunaprise IM-1 Mision). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025 the payload was launched to the moon atop a SpaceX Falcon 9 in a private sector mission landing on the south pole of the moon on 2.22, February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company ( along with Galatic Legacy Labs, the payload partner) and a community quickly evolved supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is community driven and not authored or curated by SpaceX or NASA, and is part of the first private commercial space mission to land on the moon in 50 years for NASA ,The USA and private funded projects like Space Blue's initiatives to land art, commercial content and bitcoin projects on the moon.
+Lunarbits were launched embedded with QR codes inscribed on nickel disks inside a time capsule (Lunaprise IM-1 Mission). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025, the payload was launched to the moon atop a SpaceX Falcon 9 in a private sector mission, landing on the south pole of the moon on 2.22 February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company ( along with Galactic Legacy Labs, the payload partner), and a community quickly evolved , supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is community-driven and not authored or curated by SpaceX or NASA, and is part of the first private commercial space mission to land on the moon in 50 years for NASA, the USA, and privately funded projects like Space Blue's initiatives to land art, commercial content and bitcoin projects on the moon.
 
 
-Space Blue, as the only authorized party for certifications of assets in the timecapsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata which landed on the moon at:
+Space Blue, as the only authorized party for certifications of assets in the time capsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata, which landed on the moon at:
 https://verify.spaceblue.club/ 
 Further information on the space mission itself can be found online at https://github.com/lunaprise and https://spaceblue.club
 
 
-Lunarbits verification can be obtained there of its payload inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
+Lunarbits verification can be obtained there of its payload, which is inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
-Lunarbits now also on earth have been memorialized  and inscribed as Bitcoin Tokens using a protocol developed by the bitcoin ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 2nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits and thus Lunarbits are inscribed on a third party trusted Bitcoin inscription platform called Luminex which as of this date Luminex.io has launched tens of thousands of inscription projects on its platform.
+Lunarbits, now also on Earth, have been memorialized  and inscribed as Bitcoin Tokens using a protocol developed by the Bitcoin Ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 2nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits, and thus Lunarbits is inscribed on a third-party trusted Bitcoin inscription platform called Luminex, which as of this date, Luminex.io has launched tens of thousands of inscription projects on its platform.
 
 
-222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin and digital projects landed in a timecapsule on the moon [Lunaprise -IM1 Mission] including the Lunarbits project
+222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin, and digital projects landed in a time capsule on the moon [Lunaprise -IM1 Mission], including the Lunarbits project
 
 # Lunarbits Community
 
@@ -49,26 +49,23 @@ Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
 
 Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
-Treasury Reserved 167.11 million Lunarbits Tokens(10 year release 75%)  This number includes 22.22 Million tokens reserved for future burning when 22.22 Million LBITS Solana token was introduced in November, 2025.
+Treasury Reserved 167.11 million Lunarbits Tokens(10-year release 75%).  This number includes 22.22 million tokens reserved for future burning when the 22.22 million LBITS Solana token was introduced in November 2025.
 
-Reserved Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10 year release 8.8%)
+Reserved Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10-year release 8.8%)
 
-Liquidity Allocation: 11.11 Million Lunarbits Tokens (10 year Release 5%)
+Liquidity Allocation: 11.11 Million Lunarbits Tokens (10-year Release 5%)
 
-Total Reserved Tokens 197.77 Million Lunarbits Tokens Mininum- Pro Rated Over 10 years Per DAO guidelines and Lunarbits white paper. 
+Total Reserved Tokens 197.77 Million Lunarbits Tokens Minimum- Pro Rated Over 10 years per DAO guidelines and Lunarbits white paper. 
 
 #UPDATE:
-LBITS A multichain initiative inscribing 22.22 million ecosystem rewards tokens were launched by Lunarbits.Lunarbits announced a long awaited introduction of Lubarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025 and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
 The mint address (equivalent to the contract address for SPL tokens on Solana) is:
 
 LBITSf5P4Q7aY5Q2oV2t8kJ7bY3L8zX4vW6uY9pQ1rS2
 
-Lunarbits Bitcoin Runes Treasury Reserve Wallet Address:
-https://luminex.io/address/bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
- bc1pezrzw78598nup93l3dr4ueekkwzdgnryw5jzxcs050c04cdk7uzss88val
 
-Total Reserved Tokens Across Multiple Reserve Wallets i.e, Mininum 197.77 million Lunarbits are to Be transferred to an escrowed third party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage during year 1 after  the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by DAO which may also determine to burn certain reserved Lunarbits tokens. 
+Total Reserved Tokens Across Multiple Reserve Wallets, i.e, Minimum   197.77 million Lunarbits are to be transferred to an escrowed third-party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage during year 1 after  the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by the DAO, which may also determine to burn certain reserved Lunarbits tokens. 
 
 ## BITCOIN BLOCKCHAIN SECURITY
 
@@ -91,9 +88,9 @@ Despite occasional network congestion during peak adoption (e.g., meme coin fren
 Solana's ecosystem has flourished, attracting over $10 billion in total value locked (TVL) and powering projects in capital markets, real-world assets (RWAs), and consumer applications. Its permissionless nature and low barriers to entry have democratized blockchain development, fostering innovation in high-frequency trading, cross-border remittances, and community-driven tokens.
 
 LBITS: Leveraging Solana's Solutions for Meme Coin Ecosystem Rewards
-Building on Solana's high-performance foundation, the LBITS project emerges as a innovative multichain meme coin initiative spearheaded by Lunarbits—a Singapore-based community of space enthusiasts, artists, musicians, and Bitcoin pioneers.
+Building on Solana's high-performance foundation, the LBITS project emerges as an innovative multichain meme coin initiative spearheaded by Lunarbits—a Singapore-based community of space enthusiasts, artists, musicians, and Bitcoin pioneers.
 
-LBITS wasLaunched on November 4, 2025, LBITS represents a strategic expansion of the Lunarbits ecosystem onto Solana, minting 22.22 million tokens as inscribed rewards for community contributors. Positioned as a meme coin with utility in ecosystem governance and incentives, LBITS draws inspiration from viral Solana phenomena like BONK and WIF, but differentiates through its multichain interoperability—bridging Bitcoin Runes origins with Solana's speed. The total supply of 22.22 million echoes Lunarbits' lunar motif (22.22 symbolizing orbital cycles), with allocations for airdrops, staking rewards, and creator grants to fuel a "moonshot" economy of art, music, and space-themed dApps.09a99558a60342bbb3
+LBITS was launched on November 4, 2025. LBITS represents a strategic expansion of the Lunarbits ecosystem onto Solana, minting 22.22 million tokens as inscribed rewards for community contributors. Positioned as a meme coin with utility in ecosystem governance and incentives, LBITS draws inspiration from viral Solana phenomena like BONK and WIF, but differentiates through its multichain interoperability—bridging Bitcoin Runes origins with Solana's speed. The total supply of 22.22 million echoes Lunarbits' lunar motif (22.22 symbolizing orbital cycles), with allocations for airdrops, staking rewards, and creator grants to fuel a "moonshot" economy of art, music, and space-themed dApps.09a99558a60342bbb3
 LBITS harnesses Solana's protocol solutions to overcome the limitations inherent in meme coin launches on less scalable chains:
 High Throughput and Low Latency via PoH and Turbine: Solana's ability to process thousands of TPS enables seamless, real-time distribution of the 22.22 million LBITS rewards. During the mint event, over 10,000 participants claimed tokens in under 30 seconds, avoiding the congestion that plagued Ethereum-based airdrops. PoH's timestamping ensures tamper-proof inscription of rewards, while Turbine's efficient propagation broadcasts claims network-wide without bottlenecks, ideal for viral, community-driven hype cycles characteristic of meme coins.
 
@@ -130,20 +127,18 @@ Overall, this multichain pivot positions LunarBits as a bridge between Bitcoin's
 
 ### Burning Provision for Lunarbits Treasury Reserve:
 
-
-
-To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
+To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply, and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team, and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
 #LBITS
-Lunarbits Foundation concurrent with the introduction of 22.22 LBITS Solana Tokens in November, 2025 agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO within 2 years of the ICO deems its in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
+Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
 
 
-Lunarbits Bitcoin Runes was pre mined aa a closed mint on the Luninex platform, a third party widely used and trusted in the bitcoin ordinals and bitcoin runes community. Learn more at https://luminex.io/
+Lunarbits Bitcoin Runes was pre-mined as a closed mint on the Luninex platform, a third-party widely used and trusted in the Bitcoin Ordinals and Bitcoin Runes community. Learn more at https://luminex.io/
 
 ##Lunarbirs Bitcoin Runes Inscription Proof:
 Runes ID: 855163
 
-Number of Decims: 02
+Number of Decimals: 02
 
 Date of Mint: 08-02-2024
 
@@ -161,7 +156,7 @@ Proof of LBITS Solana Mint:
 https://solscan.io/token/9tfE5DxL1mTQZmuwRF4ccdrBxa3giQHP22viCPa24aFB
 
 
-Additional methods to proof the Lunarbits Bitcoin Runes mint:
+Additional methods to prove the Lunarbits Bitcoin Runes mint:
 
 Auditing a Bitcoin Runes project inscribed on Luminex.io, when Luminex when minting is not controlled by the project team, is feasible by leveraging Bitcoin’s blockchain transparency and alternative tools. Key steps include verifying the etching transaction, tracing minting activity, auditing Runestone security, assessing the team and third-party minting, and checking market health. Tools like ordiscan.com, Mempool.space, GeniiData, RuneScan, and Runes Indexer replace Luminex’s dashboard, while security firms ensure thorough analysis. For third-party minting, cross-reference logs with on-chain data and audit their security. To reduce risks, use multi-sig wallets, pre-audit Runestones, monitor transactions, and rely on decentralized indexers. This approach ensures a robust audit, even in challenging conditions, protecting investors and users.
 
@@ -174,25 +169,25 @@ https://geniidata.com/ordinals/runes/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MO
 
 Introduction to Runes:
 
-The Bitcoin Runes Protocol is not created or authored by Lunarbits. Lunarbits were inscribed on a third party trusted Bitcoin Runes inscription platform called Luminex. Lunarbits is not its own protocol but rather is a token project inscribed on the Bitcoin network using the inscription tool launched by Luminex. 
+The Bitcoin Runes Protocol was not created or authored by Lunarbits. Lunarbits were inscribed on a third-party trusted Bitcoin Runes inscription platform called Luminex. Lunarbits is not its own protocol but rather is a token project inscribed on the Bitcoin network using the inscription tool launched by Luminex. 
 
-Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex launched in April, 2024 a set of Rune tools, allowing the Lunarbits team to  etch, mint and transfer its Lunarbits Bitcoin Runes Tokens to its initial treasury wallet. 
+Runes is a fungible token protocol for the Bitcoin network that aims to be simple and UTXO-based. Rune balances are held by UTXOs, and transactions are identified using specific script conditions. Luminex launched in April 2024 a set of Rune tools, allowing the Lunarbits team to  etch, mint, and transfer its Lunarbits Bitcoin Runes Tokens to its initial treasury wallet. 
 
 
-Interested parties can discover Lunarbits mint verification verified on many bitcoin runes explorers and decentralized wallets such as Xverse,  Unisat, MagicEden, OKX,   and including on Luminex where parties can inspect: 
+Interested parties can discover Lunarbits mint verification verified on many Bitcoin run explorers and decentralized wallets, such as Xverse,  Unisat, MagicEden, OKX,   and including on Luminex, where parties can inspect: 
 
-1. Lunarbits initial Bitcoin Runes closed mint. was on the final closed mint on August 02, 2024 lunarbits adnistratrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet.
+1. Lunarbits' initial Bitcoin Runes closed mint. On the final closed mint on August 02, 2024, Lunarbits administrators transferred all 222.222 million Lunarbits tokens to the initial treasury wallet.
 
 2. Luminex Explorer
-Allows the public to see overview of many Runes projects,and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap net worth, and balances by wallet holders.
+Allows the public to see an overview of many Runes projects, and Runes and Ordinals addresses. With summaries as to holdings, estimated market cap, net worth, and balances by wallet holders.
 
-3. Luminex Audit and Documentation. Lminex if it conducted audits of its software systen used to mint Lunarbits and other Runes projects then such audits may be available on their website and github.
+3. Luminex Audit and Documentation. Lminex, if it conducted audits of its software system used to mint Lunarbits and other Runes projects, then such audits may be available on its website and GitHub.
 
 Frequently Asked Questions (FAQ)
 1. What is Rune?
 RUNE is a UTXO-based fungible token protocol for the Bitcoin network. It allows for the issuance and management of tokens within the Bitcoin ecosystem.
 
-2. What's the difference between Open Mint, Premine and Closed Mint?
+2. What's the difference between Open Mint, Premine, and Closed Mint?
 
 Open Mint: A rune that is available to mint from any address through an on-chain Rune transaction and allocate a fixed amount of new units for themselves. There is no mint price going to whoever deployed the Rune. An open mint is subject to the Mint Terms.
 
@@ -200,29 +195,29 @@ Premine: The deployer of the Rune can decide to allocate to themselves an amount
 
 Closed Mint: A rune can be fully pre-mined within the Etching transaction. The total supply will be equal to the premine allocation of the etcher.
 
-Lunarbirs Bitcoin Runes is a closed mint premined. evidence of that can be seen in the inscription proof.
+Lunarbirs Bitcoin Runes is a closed mint, premined. Evidence of that can be seen in the inscription proof.
 
 3. What are the Mint Terms? These are the rules that determine when an open mint opens or closes. For example, a mint may be limited to a starting height, an ending height, and a cap, and will be open between the starting height and ending height, or until the cap is reached, whichever comes first.
 
 4. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
 ## Lunarbits Software and Technical Systems:
-As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways , operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and believes that Runes and Luminex.io audits may be done by third party platforms and wallets such as luminex.io and Xverse.app . In the future when lunarbits develops its own appsandv payment systems for redemption of Lunarbits on its third party e-commerce partners  it will update such public interest  information here along with audits, dev lab notes appropriately done by reliable third parties.
+As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways, operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and believes that Runes and Luminex.io audits may be done by third party platforms and wallets such as luminex.io and Xverse.app. In the future, when Lunarbits develops its own apps and payment systems for redemption of Lunarbits on its third-party e-commerce partners,  it will update such public interest  information here, along with audits, dev lab notes appropriately done by reliable third parties.
 
 ## Software and Infrastructure In Development. 
 
-Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time.
+Lumarbits is currently building e-commerce software that will allow Lunarbits stakeholders to use e-commerce gateways for its partner offerings. The forecasted launch of such applications is  Q4-2025. Until such time.
 
-Lunarbits stakeholders are eligible to participate in e-commerce partnerhips listed at  https://lunarbits222.com/partnership/ through  OTC wallet to wallet transactions with private selling parties of art, collectibles, travel experiences.
+Lunarbits stakeholders are eligible to participate in e-commerce partnerships listed at  https://lunarbits222.com/partnership/ through  OTC wallet-to-wallet transactions with private selling parties of art, collectibles, and  travel experiences.
 
-DAO Platform: Lunarbits expects to start and complete the build of a DAO software systen which it plans to launch and operate in mid 2026.
+DAO Platform: Lunarbits expects to start and complete the build of a DAO software system, which it plans to launch and operate in mid-2026.
 
 # Lunarbits Roadmap and Timelines
 
-The following are key projected timelines of projects developing with Lunarbits:(subject to change).
+The following are key projected timelines of projects being developed with Lunarbits:(subject to change).
 
 
-1. Joint Launch of Future Trends Metaverse Live To Customers: Quarter 4, 2025.
+1. Joint Launch of Future Trends Metaverse Live To Customers: Quarter 4, 2025. Launched on 11.11.2025 at www.lunaprise.live
 
 2. Joint Launch Soundromea Metaverse and Concert and Video Game: Quarter 2,2026
 
@@ -230,7 +225,7 @@ The following are key projected timelines of projects developing with Lunarbits:
 
 4. Launch DAO for first voting by Lunarbits stakeholders; Quarter 3, 2926.
 
-5. Lunarbits DIFI systems (payments and e commerce) : Quarter 1, 2026-Ongoing Improvements.
+5. Lunarbits DIFI systems (payments and e-commerce): Quarter 1, 2026-Ongoing Improvements.
 
 6. Expand Lunarbits Human Space Initiatives with Space partnerships: 2027-2030.
  
@@ -247,7 +242,7 @@ Here's a more detailed breakdown:
 
 Decentralized:
 
-DAOs operate without a central governing body but often an advisory committee formed early on helps to be a steering commmitee to organize the DAO and get it operating. Decisions are made by the members of the organization, often through voting on proposals.
+DAOs operate without a central governing body, but often an advisory committee formed early on helps to be a steering committee to organize the DAO and get it operating. Decisions are made by the members of the organization, often through voting on proposals.
 
 Autonomous:
 
@@ -268,13 +263,13 @@ Many DAOs use tokens that represent voting power or ownership. Members can use t
 
 The Lunarbits Foundation, setting up the initial DAO,  holds no stake in Lunarbits tokens, has no beneficial owners or shareholders, and was created as an unincorporated sovereign trust, established in August 2024, solely for the purpose of developing and modifying the initial establishment of a DAO for the benefit of the Lunarbits stakeholder community. It has no authority over wallet signatories and is led by a maximum of 12 board advisors (currently 6 as of June 2025), all of whom are experienced in the cryptocurrency, media, and technology industries.
 
-The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies (such as Coinbase, or Gemini or other qualified custodians)  to manage the release of treasury of Lunarbits, including escrow and/or smart contracts for future airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simultaneous to the initial launch of Lunarbits on tier 1 abd 2 cryptocurrebcy exchanges and such companies will be revealed to the public.
+The Lunarbits Foundation also has the authority to elect non-interested, qualified escrow parties and custodial companies (such as Coinbase, Gemini, or other qualified custodians)  to manage the release of the treasury of Lunarbits, including escrow and/or smart contracts for future airdrop allocations, rewards, liquidity reserves, fundraising reserves, and Lunarbits reserved for grants. This election will be simultaneous to the initial launch of Lunarbits on tier 1 and 2 cryptocurrency exchanges, and such companies will be revealed to the public.
 
-The Foundation will meet monthly including virtually to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization),rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project shoukd be first launched, and have experience of minimum one year with its community to study and codify the final rules of the DAO.
+The Foundation will meet monthly, including virtually, to discuss and deliberate the development of the final proposed DAO (Decentralized Autonomous Organization), rules which will go online no later than 12 months (365 days) following the initial public offering of Lunarbits on exchanges. The DAO is planned to determine key matters voted on, including the rules for future rewards and airdrops each year, the rules to be established for grants to qualified ecosystem partnerships that may add significant value, and the guidelines for establishing key projects to be developed for technology and infrastructure. The board of advisors shall establish such governance rules by ratification through a majority vote of the advisors prior to the DAO launch date. Ongoing governance shall be as codified by these final rules. It is the consensus of the advisors as of 2024 that the Lunarbits project should be first launched, and have experience of minimum one year with its community to study and codify the final rules of the DAO.
 
-The Lunarbits Adivors and initial DAO guidlines  to be developed to date and key affairs that are involved with is as pulbished on the Lunarbits Official website.
+The Lunarbits Advisors and initial DAO guidelines  have been developed to date, and key affairs that are involved with is as published on the Lunarbits Official website.
 
-The advisors shall also determine any appropriate vendors to be employed to build software systems during the yea (s) followings the public event. The members of the board of advisors shall be published publicly and updated from time to time. After the establishment of the DAO, a group of qualified advisors shall continue to oversee the development of critical infrastructure and the growth of the Lunarbits community.
+The advisors shall also determine any appropriate vendors to be employed to build software systems during the year (s) following the public event. The members of the board of advisors shall be published publicly and updated from time to time. After the establishment of the DAO, a group of qualified advisors shall continue to oversee the development of critical infrastructure and the growth of the Lunarbits community.
 
 ![image](https://github.com/user-attachments/assets/951cdc95-2a50-455e-a263-e457f375d646)
 
@@ -288,21 +283,21 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 
 Lunarbits is built on the Bitcoin Ordinals Runes Protocol.
 
-#### What is a bitcoin ordinal and what is the Runes Protocol?
+#### What is a bitcoin ordinal, and what is the Runes Protocol?
 
-Bitcoin ordinals are a very popular NFT inscription system and the Runes Protocol built on Bitcoin Ordinals tokenizes and creates the utility token for use in the project  ecosystem.
-### Are there audits of the actual Lunarbits Mine. 
-Lunarbis does not hold any sofwate involved in the process of its mint of the Lunarbits Bitcoin Runes nor he custody of any of he lunarbits in third party wallets. The transaction was completed an a launch pad facilitated by the trusted third party. interested parties may inspect luminex reporting. documentations and audits on its website.
+Bitcoin ordinals are a very popular NFT inscription system,m and the Runes Protocol built on Bitcoin Ordinals tokenizes and creates the utility token for use in the project  ecosystem.
+### Are there audits of the actual Lunarbits Mine? 
+Lunarbis does not hold any software involved in the process of its mint of the Lunarbits Bitcoin Runes nor he custody of any of the Lunarbits in third-party wallets. The transaction was completed on a launch pad facilitated by the trusted third party. Interested parties may inspect Luminex reporting. documentations and audits on its website.
 
-#### Are $Lunarbits really also a measurement of actual analog space on the moon which landed in the Lunaprise time capsule and space mission in 2024?
+#### Are $Lunarbits really also a measurement of actual analog space on the moon, which landed in the Lunaprise time capsule and space mission in 2024?
 
 Yes, that is true, the Lunaprise mission launched on SpaceX Falcon9 (IM-1 Mission)  managed and curated by Space Blue sent Lunarbits digital artifacts inked to QR codes which take up measurable space in the lunar payload now sitting in the Lunaprise museum on the Moon.
 
 The Odysseus lander became the first US spacecraft to land on the Moon since 1972.
 
-The disks (18 layers of them contained in the Lunaprise) were inscribed with QR Codes which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits tokens.
+The disks (18 layers of them contained in the Lunaprise) were inscribed with QR Codes, which are linked as twins to the Lunarbits NFT images on Earth now inscribed as Bicoin Ordinal $Lunarbits tokens.
 
-The total amount of Lunarbits authorized is currently 222.222 Million tokens. Every Lunarbit  has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized bitcoin runes offered to earthlings!
+The total amount of Lunarbits authorized is currently 222.222 million tokens. Every Lunarbit  has a twin of itself in the space on the Moon linked to the QR codes in the time capsule, making this the first out-of-this-world super rare tokenized bitcoin runes offered to earthlings!
 
 #### Where can $Lunarbits be redeemed?
 
@@ -310,7 +305,7 @@ On offers at partner sites as listed and updated at www.lunarbits222.com/partner
 
 #### What cryptocurrency exchange will list the token?
 
-The Lunarbits Token has applied amd approved to  to list on a leading cryptocurrency platform such as MEXC, Gate.io,  LA Bank abd others and expects to be published there by start of Q3, 2025 (note this date is subject to change)
+The Lunarbits Token has applied and been approved  to list on a leading cryptocurrency platform such as MEXC, Gate.io,  LA Bank and others and expects to be published there by the start of Q3, 2025 (note this date is subject to change)
 
 ![IMG-20250123-WA0071](https://github.com/user-attachments/assets/9e5d73bd-9d9b-495f-980d-9bc1a7535774)
 
@@ -318,7 +313,7 @@ The Lunarbits Token has applied amd approved to  to list on a leading cryptocurr
 ![Logo](https://github.com/Lunarbits222/Lunarbits222/blob/main/Lunarbits%20Logo.jpg?raw=true)
 
 ## Press & Related
-Press regarding the project and space mission is published online including at
+Press regarding the project and space mission is published online, including at
 
 https://spaceblue.club/press-kit
 
