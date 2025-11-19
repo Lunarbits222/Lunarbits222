@@ -40,9 +40,7 @@ Telegram: t.me/lunarbits222
 
 Linktree: linktr.ee/lunarbits222
 
-
-
-# Lunarbits Tokenomics
+# Lunarbits Overall Tokenomics
 
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
@@ -61,7 +59,7 @@ Total Reserved Tokens In Year 1 (August 8th, 2025 to August 8th, 2026) 197.77 Mi
 #UPDATE:
 LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
-## Mint Locking:
+## Mint Locking Specific to LBITS Solana Tokens:
 The mint is not locked, meaning that the foundation may, with the cooperation and support of the community, elect during the first 2 years to consider expanding the token quantity of the LBITS Solana Token for the benefit of community expansion. In no situation will the tokenomics be expanded for the benefit of sole token holders/ or insiders.
 
 The mint address (equivalent to the contract address for SPL tokens on Solana) is:
