@@ -3,9 +3,10 @@ o
 
 https://lunarbits222.com/
 
-A Bitcoin Runes Token Born on the Moon
+A Cryptocurrency Project and  Token Literally Born on the Moon
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
+Built first on Bitcoin Runes.
 Expanded with the multichain initiative to include LBITS, Lunarbits Solana in November 2025.
 
 # Lunarbits Historic Lunar Space Background
@@ -45,20 +46,23 @@ Linktree: linktr.ee/lunarbits222
 
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
-Private Pre Sale: 2.2 Million Lunarbits Tokens (1%)
-
-Initial Public/Private Offerings: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
+Initial Public/Private Offerings Phase 1: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
 Treasury Reserved 167.11 million Lunarbits Tokens(10-year release 75%).  This number includes 22.22 million tokens reserved for future burning when the 22.22 million LBITS Solana token was introduced in November 2025.
 
-Reserved Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10-year release 8.8%)
+Includes
 
-Liquidity Allocation: 11.11 Million Lunarbits Tokens (10-year Release 5%)
+-Reserved Strategic Partners/Advisory: 19.55 Million Lunarbits Tokens  (10-year release=8.33%)
 
-Total Reserved Tokens 197.77 Million Lunarbits Tokens Minimum- Pro Rated Over 10 years per DAO guidelines and Lunarbits white paper. 
+-Liquidity Allocation: 11.11 Million Lunarbits Tokens (10-year Release=5%)
+
+Total Reserved Tokens In Year 1 (August 8th, 2025 to August 8th, 2026) 197.77 Million Lunarbits Tokens Minimum- Pro Rated Over 10 years per DAO guidelines and Lunarbits white paper. 
 
 #UPDATE:
-LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+
+## Mint Locking:
+The mint is not locked, meaning that the foundation may, with the cooperation and support of the community, elect during the first 2 years to consider expanding the token quantity of the LBITS Solana Token for the benefit of community expansion. In no situation will the tokenomics be expanded for the benefit of sole token holders/ or insiders.
 
 The mint address (equivalent to the contract address for SPL tokens on Solana) is:
 
@@ -66,10 +70,6 @@ LBITSf5P4Q7aY5Q2oV2t8kJ7bY3L8zX4vW6uY9pQ1rS2
 
 
 Total Reserved Tokens Across Multiple Reserve Wallets, i.e, Minimum   197.77 million Lunarbits are to be transferred to an escrowed third-party qualified financial institution (such as Coinbase, or Gemini or other) cold wallet storage during year 1 after  the Lunarnits public listing, as per Lunarbits DAO Foundation Advisory Guidelines and released per the release schedule each year as determined by the DAO, which may also determine to burn certain reserved Lunarbits tokens. 
-
-## BITCOIN BLOCKCHAIN SECURITY
-
-As a Bitcoin Runes token, Lunarbits leverages Bitcoin’s L1 security, the most robust in crypto, reducing risks of hacks or double-spending. Its UTXO-based model integrates seamlessly with Bitcoin’s architecture, unlike the less efficient BRC-20 standard.
 
 ## LBITS AND SOLANA NETWORK
 
@@ -105,12 +105,12 @@ In essence, LBITS transforms Solana from a mere host into a launchpad for inters
 
 In cryptocurrency, "multichain" refers to a strategy where a project, token, or application is deployed and operates across multiple blockchain networks simultaneously, rather than being limited to a single chain. This approach leverages the unique strengths of different blockchains—such as varying transaction speeds, costs, security models, or ecosystems—while enabling interoperability through bridges, wrapped tokens, or cross-chain protocols. For example, a token might exist natively on Bitcoin for its security and store-of-value appeal, while also being available on Ethereum or Solana for faster, cheaper interactions in DeFi or NFTs. The goal is often to expand reach, liquidity, and utility without fragmenting the project's core value.
 
-Why Multichain Could Be Good for LunarBits' Expansion (Bitcoin Runes + LBITS on Solana)
+## Why Multichain Could Be Good for LunarBits' Expansion (Bitcoin Runes + LBITS on Solana)
 LunarBits is a Bitcoin-native token built on the Runes protocol—a fungible token standard launched on Bitcoin to enable efficient, UTXO-based assets without relying on sidechains or complex smart contracts. It's a community-driven project blending space exploration, art, music, and Bitcoin culture, with real-world ties like artifacts launched on SpaceX's Falcon 9 rocket and a historic "Lunaprise" mission landing on the Moon via Intuitive Machines' IM-1. Recently, on November 4, 2025, the project expanded by minting LBITS—a Solana-based version—with 22.22 million tokens (6 decimals) to create a multichain presence. This pairs the original LUNARBITS on Bitcoin Runes with LBITS on Solana, allowing seamless operation across both ecosystems.
 
 This multichain setup is a smart move for LunarBits' growth, especially given its thematic focus on "Bitcoin to the Moon" and cultural artifacts. Here are key reasons why it could drive expansion:
 
-##Broader User Acquisition and Accessibility: 
+## Broader User Acquisition and Accessibility: 
 
 Bitcoin Runes appeals to hardcore Bitcoin maximalists who value decentralization and scarcity, but Solana's high-speed (up to 65,000 TPS) and low-fee (~$0.00025 per transaction) environment attracts DeFi enthusiasts, NFT traders, and retail users who might find Bitcoin's slower speeds (7 TPS) and higher fees prohibitive for everyday use. By offering LBITS on Solana, LunarBits taps into Solana's 50M+ active wallets (vs. Bitcoin's more conservative base), potentially onboarding millions who align with the project's space-art vibe through Solana's vibrant meme coin and creator economy scenes.
 
@@ -118,7 +118,7 @@ Bitcoin Runes appeals to hardcore Bitcoin maximalists who value decentralization
 
 Operating on multiple chains fragments liquidity risks but multiplies pools. LUNARBITS can trade on Bitcoin-focused marketplaces like Magic Eden's Runes section, while LBITS unlocks Solana DEXes (e.g., Raydium, Jupiter) with deeper liquidity and automated market makers. This cross-chain flow—via bridges like Wormhole or Mayan—could boost overall volume; for instance, LunarBits' recent multiverse launch event highlighted LBITS powering music, movies, and art experiences on Solana, drawing in new traders and increasing 24-hour volumes that have hovered around $200K+ for the project.
 
-##Ecosystem Diversification and Risk Mitigation: 
+## Ecosystem Diversification and Risk Mitigation: 
 
 Relying solely on Bitcoin exposes projects to network congestion (e.g., during halvings or Ordinals hype) or scalability limits. Solana's proof-of-history consensus complements Bitcoin's proof-of-work security, reducing downtime risks—Solana has averaged 99.9% uptime in 2025. For LunarBits, this means reliable hosting for space-themed dApps, like virtual moon museums or creator rewards, without Bitcoin's volatility in fees. It also hedges against chain-specific regulations; Bitcoin's "digital gold" status pairs with Solana's innovation-friendly vibe.
 
@@ -129,13 +129,13 @@ Overall, this multichain pivot positions LunarBits as a bridge between Bitcoin's
 
 To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply, and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team, and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
-#LBITS
+## LBITS
 Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
 
-
+## Lunarbits Bitcoin Runes Are Pre Mined and Locked
 Lunarbits Bitcoin Runes was pre-mined as a closed mint on the Luninex platform, a third-party widely used and trusted in the Bitcoin Ordinals and Bitcoin Runes community. Learn more at https://luminex.io/
 
-##Lunarbirs Bitcoin Runes Inscription Proof:
+## Lunarbirs Bitcoin Runes Inscription Proof:
 Runes ID: 855163
 
 Number of Decimals: 02
@@ -146,7 +146,10 @@ Proof Of Mint:
 
 https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 
-LBITS SOLANA
+## Inscription Proof
+https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
+
+## LBITS SOLANA
 
 Date of Mint: 11-4-2025
 Number of LBITS: 22.22 million
@@ -155,7 +158,7 @@ Decimals: 06
 Proof of LBITS Solana Mint:
 https://solscan.io/token/9tfE5DxL1mTQZmuwRF4ccdrBxa3giQHP22viCPa24aFB
 
-
+## Lunarbits Bitcoin Runes Mint
 Additional methods to prove the Lunarbits Bitcoin Runes mint:
 
 Auditing a Bitcoin Runes project inscribed on Luminex.io, when Luminex when minting is not controlled by the project team, is feasible by leveraging Bitcoin’s blockchain transparency and alternative tools. Key steps include verifying the etching transaction, tracing minting activity, auditing Runestone security, assessing the team and third-party minting, and checking market health. Tools like ordiscan.com, Mempool.space, GeniiData, RuneScan, and Runes Indexer replace Luminex’s dashboard, while security firms ensure thorough analysis. For third-party minting, cross-reference logs with on-chain data and audit their security. To reduce risks, use multi-sig wallets, pre-audit Runestones, monitor transactions, and rely on decentralized indexers. This approach ensures a robust audit, even in challenging conditions, protecting investors and users.
@@ -201,6 +204,10 @@ Lunarbirs Bitcoin Runes is a closed mint, premined. Evidence of that can be seen
 
 4. What is a Runestone? Runestones are the Rune protocol messages stored in the OP_RETURN output of the Rune transaction.
 
+## BITCOIN BLOCKCHAIN SECURITY
+
+As a Bitcoin Runes token, Lunarbits leverages Bitcoin’s L1 security, the most robust in crypto, reducing risks of hacks or double-spending. Its UTXO-based model integrates seamlessly with Bitcoin’s architecture, unlike the less efficient BRC-20 standard.
+
 ## Lunarbits Software and Technical Systems:
 As of June 1st, 2025 Lunarbits operates no software,  operates no DIFI bridges or blockchain payment gateways, operates no DAO software, operates no airdrop software,  operates no third pary wallets as of June 1st, 2025  and as such  did not need any blockchain audits done and believes that Runes and Luminex.io audits may be done by third party platforms and wallets such as luminex.io and Xverse.app. In the future, when Lunarbits develops its own apps and payment systems for redemption of Lunarbits on its third-party e-commerce partners,  it will update such public interest  information here, along with audits, dev lab notes appropriately done by reliable third parties.
 
@@ -212,10 +219,9 @@ Lunarbits stakeholders are eligible to participate in e-commerce partnerships li
 
 DAO Platform: Lunarbits expects to start and complete the build of a DAO software system, which it plans to launch and operate in mid-2026.
 
-# Lunarbits Roadmap and Timelines
+## Lunarbits Roadmap and Timelines
 
 The following are key projected timelines of projects being developed with Lunarbits:(subject to change).
-
 
 1. Joint Launch of Future Trends Metaverse Live To Customers: Quarter 4, 2025. Launched on 11.11.2025 at www.lunaprise.live
 
@@ -274,14 +280,12 @@ The advisors shall also determine any appropriate vendors to be employed to buil
 ![image](https://github.com/user-attachments/assets/951cdc95-2a50-455e-a263-e457f375d646)
 
 
-## Inscription Proof
-https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
 
 ## FAQ
 
 #### What protocol is used for Lunarbits?
 
-Lunarbits is built on the Bitcoin Ordinals Runes Protocol.
+Lunarbits is built on the Bitcoin Ordinals Runes Protocol. LBITS is built on the Solana Protocol.
 
 #### What is a bitcoin ordinal, and what is the Runes Protocol?
 
