@@ -76,6 +76,9 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 ##  LBITS MULTICHAIN UPDATE:
 LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
+## LBITS SOLANA MINT DID NOT INCREASE OVERALL TOKEN SUPPLY AND HERE IS WHY
+Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
+
 ## LBITS SOLANA MINT
 
 Date of Mint: 11-4-2025
@@ -152,8 +155,6 @@ Overall, this multichain pivot positions LunarBits as a bridge between Bitcoin's
 
 To enhance the Lunarbits tokenomics and create deflationary pressure that could potentially increase token value over time, implementing effective token-burning strategies is a strong approach. Token burning involves permanently removing tokens from circulation, reducing the total supply, and signaling scarcity to investors. A burn proposal is being considered by the Lunarbits advisory team, and such proposals and new proposals will likely be a part of the DAO voting process. Learn more about the first such burn proposal at https://docs.google.com/document/d/1bJxL_VNfzsQH440dlbZHcDXWfCRSfGpsmiCnSeug_ug/edit?usp=sharing
 
-## LBITS
-Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
 
 ## Lunarbits Bitcoin Runes Mint
 Additional methods to prove the Lunarbits Bitcoin Runes mint:
