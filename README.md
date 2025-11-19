@@ -73,7 +73,10 @@ https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 ## Inscription Proof
 https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
 
-## LBITS SOLANA
+##  LBITS MULTICHAIN UPDATE:
+LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
+
+## LBITS SOLANA MINT
 
 Date of Mint: 11-4-2025
 Number of LBITS: 22.22 million
@@ -81,9 +84,6 @@ Decimals: 06
 
 Proof of LBITS Solana Mint:
 https://solscan.io/token/9tfE5DxL1mTQZmuwRF4ccdrBxa3giQHP22viCPa24aFB
-
-##  LBITS MULTICHAIN UPDATE:
-LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
 ## Mint Locking Specific to LBITS Solana Tokens:
 The mint is not locked, meaning that the foundation may, with the cooperation and support of the community, elect during the first 2 years to consider expanding the token quantity of the LBITS Solana Token for the benefit of community expansion. In no situation will the tokenomics be expanded for the benefit of sole token holders/ or insiders.
