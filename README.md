@@ -46,7 +46,7 @@ Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
 Initial Public/Private Offerings Phase 1: 22.22 Million Maximum Lunarbits Tokens  (Maximum 10% in years 1-2)
 
-Treasury Reserved 167.11 million Lunarbits Tokens(10-year release 75%).  This number includes 22.22 million tokens reserved for future burning when the 22.22 million LBITS Solana token was introduced in November 2025.
+Treasury Reserved 167.11 million Lunarbits Tokens(10-year release 75%).  This number includes 22.22 million tokens reserved for future possible burning when the 22.22 million LBITS Solana token was introduced in November 2025.
 
 Includes
 
@@ -76,8 +76,8 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 ##  LBITS MULTICHAIN UPDATE:
 LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
-## LBITS SOLANA MINT DID NOT INCREASE OVERALL TOKEN SUPPLY AND HERE IS WHY
-Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
+## LBITS SOLANA MINT DID NOT INCREASE OVERALL TOKEN SUPPLY AND HERE IS WHY:
+Lunarbits Foundation, concurrent with the introduction of 22.22 LBITS Solana Tokens in November 2025, agreed to hold back from the Lunarbits Treasury 22.22 Million Lunarbits Bitcoin Runes tokens for potential burning of such if the DAO, within 2 years of the ICO, deems it in the best interests of the community to maintain the total number of Lunarbits Bitcoin Runes and LBITS Solana tokens to be the tokenomics origins of 222,222 Million tokens.
 
 ## LBITS SOLANA MINT
 
@@ -116,11 +116,12 @@ Solana's ecosystem has flourished, attracting over $10 billion in total value lo
 LBITS: Leveraging Solana's Solutions for Meme Coin Ecosystem Rewards
 Building on Solana's high-performance foundation, the LBITS project emerges as an innovative multichain meme coin initiative spearheaded by Lunarbits—a Singapore-based community of space enthusiasts, artists, musicians, and Bitcoin pioneers.
 
-LBITS was launched on November 4, 2025. LBITS represents a strategic expansion of the Lunarbits ecosystem onto Solana, minting 22.22 million tokens as inscribed rewards for community contributors. Positioned as a meme coin with utility in ecosystem governance and incentives, LBITS draws inspiration from viral Solana phenomena like BONK and WIF, but differentiates through its multichain interoperability—bridging Bitcoin Runes origins with Solana's speed. The total supply of 22.22 million echoes Lunarbits' lunar motif (22.22 symbolizing orbital cycles), with allocations for airdrops, staking rewards, and creator grants to fuel a "moonshot" economy of art, music, and space-themed dApps.09a99558a60342bbb3
-LBITS harnesses Solana's protocol solutions to overcome the limitations inherent in meme coin launches on less scalable chains:
-High Throughput and Low Latency via PoH and Turbine: Solana's ability to process thousands of TPS enables seamless, real-time distribution of the 22.22 million LBITS rewards. During the mint event, over 10,000 participants claimed tokens in under 30 seconds, avoiding the congestion that plagued Ethereum-based airdrops. PoH's timestamping ensures tamper-proof inscription of rewards, while Turbine's efficient propagation broadcasts claims network-wide without bottlenecks, ideal for viral, community-driven hype cycles characteristic of meme coins.
+LBITS was launched on November 4, 2025. LBITS represents a strategic expansion of the Lunarbits ecosystem onto Solana, minting 22.22 million tokens as inscribed rewards for community contributors. Positioned as a meme coin with utility in ecosystem governance and incentives, LBITS draws inspiration from viral Solana phenomena like BONK and WIF, but differentiates through its multichain interoperability—bridging Bitcoin Runes origins with Solana's speed. The total supply of 22.22 million echoes Lunarbits' lunar motif (22.22 symbolizing orbital cycles), with allocations for airdrops, staking rewards, and creator grants to fuel a "moonshot" economy of art, music, and space-themed dApps.
 
-Cost Efficiency and Accessibility: With fees under $0.00025, LBITS democratizes participation, allowing micro-transactions for staking, voting on ecosystem proposals, or tipping creators—features that would be prohibitive on higher-fee networks. This aligns with Lunarbits' inclusive vision, enabling global "pups" (community members) to engage without barriers.
+LBITS harnesses Solana's protocol solutions to overcome the limitations inherent in meme coin launches on less scalable chains:
+High Throughput and Low Latency via PoH and Turbine: Solana's ability to process thousands of TPS enables seamless, real-time distribution of the 22.22 million LBITS rewards. PoH's timestamping ensures tamper-proof inscription of rewards, while Turbine's efficient propagation broadcasts claims network-wide without bottlenecks, ideal for viral, community-driven hype cycles characteristic of meme coins.
+
+Cost Efficiency and Accessibility: With transaction fees under $0.00025, LBITS democratizes participation, allowing micro-transactions for staking, voting on ecosystem proposals, or tipping creators—features that would be prohibitive on higher-fee networks. This aligns with Lunarbits' inclusive vision, enabling global "pups" (community members) to engage without barriers.
 
 Parallel Execution with Sealevel: LBITS smart contracts, deployed as Solana Programs, leverage parallel processing for concurrent reward calculations and multichain bridges. For instance, integrations with Wormhole or Allbridge facilitate atomic swaps between LBITS on Solana and Lunarbits Runes on Bitcoin, executing in parallel to minimize slippage during high-volume trades.47e616
 Gulf Stream for Meme Velocity: By forwarding unconfirmed reward claims to validators pre-block, Gulf Stream ensures near-instant feedback loops, amplifying social virality. This was pivotal during LBITS' launch, where DEX listings on Raydium and Jupiter saw 500% volume spikes within minutes, powered by Solana's mempool optimization.
