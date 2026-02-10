@@ -13,7 +13,6 @@ Expanded with the multichain initiative to include LBITS, Lunarbits Solana in No
 
 Lunarbits were launched embedded with QR codes inscribed on nickel disks inside a time capsule (Lunaprise IM-1 Mission). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025, the payload was launched to the moon atop a SpaceX Falcon 9 in a private sector mission, landing on the south pole of the moon on 2.22 February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company ( along with Galactic Legacy Labs, the payload partner), and a community quickly evolved , supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is community-driven and not authored or curated by SpaceX or NASA, and is part of the first private commercial space mission to land on the moon in 50 years for NASA, the USA, and privately funded projects like Space Blue's initiatives to land art, commercial content and bitcoin projects on the moon.
 
-
 Space Blue, as the only authorized party for certifications of assets in the Lunaprise time capsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata, which landed on the moon at:
 https://verify.spaceblue.club/ 
 Further information on the space mission itself can be found online at https://github.com/lunaprise and https://spaceblue.club
@@ -22,7 +21,6 @@ Further information on the space mission itself can be found online at https://g
 Lunarbits verification can be obtained there of its payload, which is inscribed and sent to the moon by entering the name Lunarbits in the verification query and/or payload ID of 244. 
 
 Lunarbits, now also on Earth, have been memorialized  and inscribed as Bitcoin Tokens using a protocol developed by the Bitcoin Ordinals community in 2024 called Bitcoin Runes and were inscribed  as Lunarbits on August 2nd, 2024. The Bitcoin Runes Protocol is not created or authored by Lunarbits, and thus Lunarbits is inscribed on a third-party trusted Bitcoin inscription platform called Luminex, which as of this date, Luminex.io has launched tens of thousands of inscription projects on its platform.
-
 
 222 commemorates the date of 2.22 (February 22, 2024) in which 222 art, Bitcoin, and digital projects landed in a time capsule on the moon [Lunaprise -IM1 Mission], including the Lunarbits project
 
@@ -75,10 +73,15 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 
 ## LUNARBITS EQUITY FUND
 
-
 222.222 Million Tokens Minted
 $1.00 Par Value
 Protocol: Bitcoin Runes
+
+
+Rune: LUNARBITS•EQUITY•FUND
+ID: 50c862df094…15e6b1440i0
+Address: bc1pezrzw78…k7uzss88val
+Timestamp: 2026-02-05 10:02:14 UT
 
 A RWA Asset Backed Security Token
 Pays  Profit Sharing For 5 Years commencing quarterly reporting 90 days after the closing of the fund.
