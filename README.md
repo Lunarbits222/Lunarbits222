@@ -7,7 +7,7 @@ A Cryptocurrency Project and  Token Literally Born on the Moon
 ![image](https://github.com/user-attachments/assets/d49d57dc-cc0b-4256-9a76-16e923bc6065)
 
 Built first on Bitcoin Runes.
-Expanded with the multichain initiative to include LBITS, Lunarbits Solana in November 2025. Added in January , 2026 a bitcoin runes inscribed token named Lunarbits Equity Fund, a RWA real world asset tokenized equity fund, and deemed a security token for qualified investors only as it has dividends and rewards and payouts planned. 
+Expanded with the multichain initiative to include LBITS, Lunarbits Solana in November 2025. Added in February, 2026 a bitcoin runes inscribed token named Lunarbits Equity Fund, a RWA real world asset tokenized equity fund, and deemed a security token for qualified investors only as it has dividends and rewards and payouts planned. 
 
 # Lunarbits Historic Lunar Space Background
 
