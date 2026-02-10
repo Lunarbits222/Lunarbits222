@@ -14,7 +14,7 @@ Expanded with the multichain initiative to include LBITS, Lunarbits Solana in No
 Lunarbits were launched embedded with QR codes inscribed on nickel disks inside a time capsule (Lunaprise IM-1 Mission). The time capsule, which contained bitcoin projects including the first bitcoin whitepaper to land on the moon,  was bolted to the Odessyus Lunar Lander. On February 15th, 2025, the payload was launched to the moon atop a SpaceX Falcon 9 in a private sector mission, landing on the south pole of the moon on 2.22 February 22nd, 2024. The time capsule project was curated by Space Blue, a private space and content company ( along with Galactic Legacy Labs, the payload partner), and a community quickly evolved , supporting the launch of the first bitcoin memecoin born on the moon. The Lunarbits project is community-driven and not authored or curated by SpaceX or NASA, and is part of the first private commercial space mission to land on the moon in 50 years for NASA, the USA, and privately funded projects like Space Blue's initiatives to land art, commercial content and bitcoin projects on the moon.
 
 
-Space Blue, as the only authorized party for certifications of assets in the time capsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata, which landed on the moon at:
+Space Blue, as the only authorized party for certifications of assets in the Lunaprise time capsule,  maintains a registry of official payloads of content it curated and stored in the time capsule and their metadata, which landed on the moon at:
 https://verify.spaceblue.club/ 
 Further information on the space mission itself can be found online at https://github.com/lunaprise and https://spaceblue.club
 
@@ -28,7 +28,7 @@ Lunarbits, now also on Earth, have been memorialized  and inscribed as Bitcoin T
 
 # Lunarbits Community
 
-Lunarbits boasts a vibrant community of over 200,000 registered members across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators.
+Lunarbits boasts a vibrant community of over 200,000 registered members as of January, 2026 across social media, amplified by partnerships with Grammy-winning artists, Stan Lee collectibles, and sports memorabilia creators.
 
 Campaigns leveraging these influencers have reached an estimated 2.3 billion fans, with the lunar mission generating 3 billion global media impressions.
 
@@ -40,7 +40,7 @@ Telegram: t.me/lunarbits222
 
 Linktree: linktr.ee/lunarbits222
 
-# Lunarbits Overall Tokenomics
+# Lunarbits Bitcoin Runes Memecoin Overall Tokenomics
 
 Total Supply Authorized 222.222 Million Lunarbits Tokens ( 100%)
 
@@ -73,6 +73,17 @@ https://luminex.io/rune/LUNARBITS%E2%80%A2ON%E2%80%A2THE%E2%80%A2MOON
 ## Inscription Proof
 https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa5bb56c67a
 
+## LUNARBITS EQUITY FUND
+
+
+222.222 Million Tokens Minted
+$1.00 Par Value
+Protocol: Bitcoin Runes
+
+A RWA Asset Backed Security Token
+Pays  Profit Sharing For 5 Years commencing quarterly reporting 90 days after the closing of the fund.
+
+The Lunarbits Equity Fund is distinct and different project then the Lunarbits Meme Coin and LBITS Solana. it is operated by Lunarbits Equity Fund #1, LLC and by board of directors and fund managers and is not operated by Lunarbits Meme Coin advisors, planned DAO or community. it is designed for qualified investors and institituons that meet certain qualifications 
 ##  LBITS MULTICHAIN UPDATE:
 LBITS, A multichain initiative inscribing 22.22 million ecosystem rewards tokens on Solana, was launched by Lunarbits. Lunarbits announced a long-awaited introduction of Lunarbits Engagement and Rewards Token to be minted on the Solana network in a TGE-Token Generation Event, known as Lunarbits (SOL). The TGE is forecasted to take place in November 2025, and the smart contract address and tokenomics of such will be updated here at that time. The Lunarbits (SOL) under the token symbol LBITS is not intended to replace the ecosystem of Lunarbits Bitcoin Runes but rather expand the community and invite further engagement in order to be eligible for rewards.
 
