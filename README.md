@@ -76,7 +76,9 @@ https://mempool.space/tx/16d78f1c5adb88898a53fcda56c19725da4db27c11db3fbceae0caa
 222.222 Million Tokens Minted
 $1.00 Par Value
 Protocol: Bitcoin Runes
+Inscription Proof:
 
+https://ordinals.com/inscription/50c862df094e18d513ba10b58cc21e646c8c2cfaaa799e1a0981c3015e6b1440i0
 
 Rune: LUNARBITS•EQUITY•FUND
 ID: 50c862df094…15e6b1440i0
